@@ -8,11 +8,11 @@ rem  Usage:
 rem    deploy_a133.bat                 push Q4_K_M + bench.sh
 rem    deploy_a133.bat Q8              push Q8_0 instead
 rem    deploy_a133.bat both            push Q4 + Q8
-rem    deploy_a133.bat --fetch         copy GGUFs from 175 first
+rem    deploy_a133.bat --fetch         copy GGUFs from a remote host first
 rem    deploy_a133.bat --bench         run llama-bench on device
 rem    deploy_a133.bat --fetch --bench combined
 rem
-rem  Files are resolved next to this script (Z:\SDK\paper\indo02b\deploy\).
+rem  Files are resolved next to this script (this directory..
 rem ============================================================
 
 set "HERE=%~dp0"

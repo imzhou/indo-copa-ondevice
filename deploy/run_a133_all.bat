@@ -3,14 +3,14 @@ setlocal EnableExtensions EnableDelayedExpansion
 
 rem ============================================================
 rem  One-shot A133 pipeline: push -> bench -> smoke gen -> RSS
-rem  -> pull logs to Z:\SDK\paper\indo02b\deploy\logs\<timestamp>
+rem  -> pull logs to deploy/logs/<timestamp>
 rem
 rem  Usage:
 rem    run_a133_all.bat                 Q4_K_M, 4 threads
 rem    run_a133_all.bat Q8              Q8_0
 rem    run_a133_all.bat both            Q4 + Q8
 rem    run_a133_all.bat --threads 4
-rem    run_a133_all.bat --upload       also copy logs to 175
+rem    run_a133_all.bat --upload       also copy logs to a remote host
 rem ============================================================
 
 set "HERE=%~dp0"
@@ -102,7 +102,7 @@ set "HAVE_PKG=0"
 if exist "%LLAMA_PKG%\llama-completion" set "HAVE_PKG=1"
 if "!HAVE_PKG!"=="0" (
     echo [ERROR] missing %LLAMA_PKG%\llama-completion
-    echo         build it on 175: bash deploy/build_android_armv7.sh
+    echo         build it on a Linux host: bash deploy/build_android_armv7.sh
     goto fail
 )
 if "!NEED_FETCH!"=="1" (
