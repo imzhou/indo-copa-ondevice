@@ -61,8 +61,8 @@ See `deploy/`. The device is **32-bit** `armeabi-v7a`; do not push arm64 binarie
 If you use this repository, please cite:
 
 ```bibtex
-@software{zhou_indo_copa_ondevice_2026,
-  author       = {Zhou, Jifeng},
+@software{wang_zhou_indo_copa_ondevice_2026,
+  author       = {Wang, Weili and Zhou, Jifeng},
   title        = {{indo-copa-ondevice: on-device letter-score evaluation
                    for quantised Indonesian causal LMs}},
   month        = nov,

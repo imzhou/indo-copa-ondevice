@@ -2,8 +2,14 @@ cff-version: 1.2.0
 message: If you use this software, please cite it using these metadata.
 title: "indo-copa-ondevice: on-device letter-score evaluation for quantised Indonesian causal LMs"
 authors:
+  - family-names: Wang
+    given-names: Weili
+    affiliation: "Xinjiang University"
+    orcid: "https://orcid.org/0009-0008-6230-3249"
   - family-names: Zhou
     given-names: Jifeng
+    affiliation: "Shenzhen Root Innovation Technology Co., Ltd."
+    orcid: "https://orcid.org/0000-0003-0344-3352"
 version: 0.1.0
 date-released: "2026-11-10"
 doi: 10.5281/zenodo.24102170
