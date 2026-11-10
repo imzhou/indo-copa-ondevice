@@ -1,0 +1,3 @@
+[done] n06ctl_IQ4_XS exit=0 wall=12255s rows=400 peak_rss_kb=419544
+FREQ_TRACE samples=5961 with_cpu0=5961
+LETTER_BOARD_DONE 

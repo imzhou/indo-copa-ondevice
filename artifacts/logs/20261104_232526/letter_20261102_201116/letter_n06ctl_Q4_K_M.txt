@@ -1,0 +1,6 @@
+exit=0 wall_s=4707 peak_rss_kb=447540 rows=400 expected=400
+start=2026-11-02T20:11:16
+end=2026-11-02T21:29:43
+[200/400]
+[300/400]
+~llama_context:        CPU compute buffer size is  76.7549 MiB, matches expectation of  76.7549 MiB

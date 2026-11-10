@@ -1,0 +1,22 @@
+== date
+Mon Nov  2 16:42:19 CST 2026
+== uname
+Linux localhost 4.9.170 #135 SMP PREEMPT Wed Oct 28 19:43:24 CST 2026 armv8l
+== model
+QUAD-CORE A133 b6
+== android
+10
+== cpu
+model name	: ARMv8 Processor rev 4 (v8l)
+== cores
+4
+== mem
+MemTotal:         992428 kB
+== governor
+schedutil
+== freq limits khz (min/max/available)
+408000
+1512000
+408000 600000 816000 1008000 1200000 1320000 1416000 1512000 
+== llama dir
+/data/local/tmp/copa3/llama

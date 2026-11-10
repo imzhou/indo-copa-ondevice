@@ -1,0 +1,22 @@
+== slice ecare_dev n=200 seed=20261102 tok_max=103 n_ctx=128
+[board_ctl]
+  board_ctl      acc=0.740 auc=0.832 cons=0.805 ci=[0.68, 0.8]
+[host_ctl]
+  host_ctl       acc=0.745 auc=0.835 cons=0.815 ci=[0.685, 0.805]
+[board_base]
+  board_base     acc=0.650 auc=0.722 cons=0.545 ci=[0.585, 0.715]
+[host_base]
+  host_base      acc=0.625 auc=0.727 cons=0.550 ci=[0.555, 0.69]
+[hf_bf16] (dev_ecare_n06_ctl_step_1884.json)
+  hf_bf16        acc=0.670 auc=nan cons=nan ci=None
+  [pair] board_ctl vs host_ctl: agree=0.945 pearson=0.9870 mcnemar b=5(only board_ctl right) c=6(only host_ctl right) p=1.000 self-check b-c=-1 vs acc_gap*n=-1
+  [pair] board_ctl vs board_base: agree=0.690 pearson=0.6353 mcnemar b=40(only board_ctl right) c=22(only board_base right) p=0.030 self-check b-c=18 vs acc_gap*n=+18
+  [pair] board_ctl vs host_base: agree=0.665 pearson=0.6390 mcnemar b=45(only board_ctl right) c=22(only host_base right) p=0.007 self-check b-c=23 vs acc_gap*n=+23
+  [pair] board_ctl vs hf_bf16: agree=0.870 pearson=0.8696 mcnemar b=20(only board_ctl right) c=6(only hf_bf16 right) p=0.009 self-check b-c=14 vs acc_gap*n=+14
+  [pair] host_ctl vs board_base: agree=0.685 pearson=0.6325 mcnemar b=41(only host_ctl right) c=22(only board_base right) p=0.023 self-check b-c=19 vs acc_gap*n=+19
+  [pair] host_ctl vs host_base: agree=0.680 pearson=0.6353 mcnemar b=44(only host_ctl right) c=20(only host_base right) p=0.004 self-check b-c=24 vs acc_gap*n=+24
+  [pair] host_ctl vs hf_bf16: agree=0.855 pearson=0.8649 mcnemar b=22(only host_ctl right) c=7(only hf_bf16 right) p=0.008 self-check b-c=15 vs acc_gap*n=+15
+  [pair] board_base vs host_base: agree=0.935 pearson=0.9851 mcnemar b=9(only board_base right) c=4(only host_base right) p=0.267 self-check b-c=5 vs acc_gap*n=+5
+  [pair] board_base vs hf_bf16: agree=0.650 pearson=0.5291 mcnemar b=33(only board_base right) c=37(only hf_bf16 right) p=0.720 self-check b-c=-4 vs acc_gap*n=-4
+  [pair] host_base vs hf_bf16: agree=0.635 pearson=0.5285 mcnemar b=32(only host_base right) c=41(only hf_bf16 right) p=0.349 self-check b-c=-9 vs acc_gap*n=-9
+BOARD_LETTER_DONE

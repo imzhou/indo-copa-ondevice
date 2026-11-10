@@ -1,0 +1,400 @@
+Premis: Tom memiliki penglihatan yang baik.\nApa akibat yang paling mungkin?\nA. Tom menemukan cobra beracun tepat waktu.\nB. Tom sangat memperhatikan perlindungan mata.\nJawaban:
+Premis: Lucy telah mendirikan komunitas untuk membantu anak-anak yang tidak memiliki tempat tinggal.\nApa akibat yang paling mungkin?\nA. Banyak teman-temannya bergabung dalam keluarga hangat.\nB. Perlu banyak orang untuk menjelaskannya.\nJawaban:
+Premis: Para ilmuwan menghindari dampak besar atom.\nApa penyebab yang paling mungkin?\nA. Penggunaan nuklir yang tidak bertanggung jawab sangat menakutkan.\nB. Dia sedang melakukan penelitian tentang atom.\nJawaban:
+Premis: Tom memiliki kijang rusa.\nApa akibat yang paling mungkin?\nA. Kijang rusa tersebut tidur banyak.\nB. Kijang rusa tersebut makan ikan dengan cepat.\nJawaban:
+Premis: Dia berkata dia mendapatkan semut wanita.\nApa penyebab yang paling mungkin?\nA. Tom pergi ke zoo.\nB. Tom menemukan semut dome berukuran kecil.\nJawaban:
+Premis: Medannya sangat tenang di malam hari.\nApa akibat yang paling mungkin?\nA. Tiba-tiba hujan mulai jatuh.\nB. Ketenangan terganggu oleh beberapa suara burung.\nJawaban:
+Premis: Dia telah membuat satu gelas jus.\nApa penyebab yang paling mungkin?\nA. Alice ingin merasakan kelembapan.\nB. Lucy telah membeli banyak buah segar.\nJawaban:
+Premis: Handphone ini tidak awet.\nApa akibat yang paling mungkin?\nA. Baterai sering gagal mengisi daya.\nB. 它可以被诱引玉米田排斥。（注：此选项在原句中不存在合理对应，故保持英文以示原意未被翻译）\nJawaban:
+Premis: Dia telah menderita diabetes.\nApa penyebab yang paling mungkin?\nA. Tom mengabaikan kebersihan pribadinya.\nB. Dia terutama gemuk.\nJawaban:
+Premis: Tubuh membusuk secara perlahan.\nApa penyebab yang paling mungkin?\nA. Enzim-enzim bekerja pada tubuh korbang burung.\nB. Manifestasi klinis penyakit Wilson utamanya adalah diskinesia seperti getaran otot, kecepatan gerakan lambat, ketidakstabilan gait dan gejala mental seperti kelelahan, perubahan perilaku mental.\nJawaban:
+Premis: Judy mengalami tictak.\nApa akibat yang paling mungkin?\nA. Dokter hewan menyatakan bahwa dia memiliki panleukopenia.\nB. Dia memiliki gerakan tidak sadar di tubuhnya.\nJawaban:
+Premis: Gemstones adalah harta yang berharga.\nApa akibat yang paling mungkin?\nA. Setiap orang merawat harta tersebut walaupun ada hal lain dalam kerajaan mineral.\nB. Mereka selalu berdampingan dengan istrinya dan tidak pernah meninggalkan mereka.\nJawaban:
+Premis: Pasien diderahi kelemahan.\nApa penyebab yang paling mungkin?\nA. Pasien mengalami sindrom pasca-polio.\nB. Konflik-konflik dijumpai banyak di laut.\nJawaban:
+Premis: Mereka bisa hidup dengan baik di musim dingin.\nApa penyebab yang paling mungkin?\nA. Mereka menggali ke subtanah.\nB. Seals adalah mamalia.\nJawaban:
+Premis: Mary ingin memasak di dapur.\nApa akibat yang paling mungkin?\nA. Dokter mengukur berat badan Mary.\nB. Mary menemukan dapur di restoran.\nJawaban:
+Premis: Throat Sally sangat bengkak.\nApa akibat yang paling mungkin?\nA. Sally tidak bisa membuat suara apa pun.\nB. Penglihatannya terluka.\nJawaban:
+Premis: Dia terkejut dengan cara mereka yang mirip dengan hewan multicellular.\nApa penyebab yang paling mungkin?\nA. Peneliti berharap Paramecium memiliki cara khusus untuk memakan makanan.\nB. Tom telah bertemu dua plesiosaurus.\nJawaban:
+Premis: Sel-sel limfosit di sekitar pantat pasien terkena penyakit.\nApa akibat yang paling mungkin?\nA. Vaskulus di sekitarnya terpengaruh.\nB. Pasien mengalami konvulsif.\nJawaban:
+Premis: Dia menjaga banyak gnus.\nApa akibat yang paling mungkin?\nA. Dia pergi dengan mereka bersama untuk mencari makanan.\nB. Gnus tersebut telah memakan rumput di halaman dia.\nJawaban:
+Premis: Jantung Tom berdetak sangat lambat.\nApa akibat yang paling mungkin?\nA. Dokter memasang defibrillator untuknya.\nB. Dokter memberitahu dia singkat setelah itu bahwa dia mengalami serangan jantung.\nJawaban:
+Premis: Tom telah meletakkan botol air di dalam pendingin makanan.\nApa akibat yang paling mungkin?\nA. Airnya tetap dingin.\nB. Dia mendapatkan botol es.\nJawaban:
+Premis: Beban dibagi dengan luas drainase besar.\nApa penyebab yang paling mungkin?\nA. Ini sungai memiliki ketinggian lapangan tinggi.\nB. Banjir menoverwhelming banyak dikeramik.\nJawaban:
+Premis: Peneliti telah menemukan polimer dari gula.\nApa akibat yang paling mungkin?\nA. Peneliti mengatakan itu adalah oligosakarida.\nB. Peneliti mengatakan itu adalah glukogen.\nJawaban:
+Premis: Jessy berpikir apakah harus pergi untuk liburan.\nApa akibat yang paling mungkin?\nA. Dia menyerah demi hasil lotere yang drastis.\nB. Dia menyerah demi konsekuensi yang drastis.\nJawaban:
+Premis: Dia membawa kasus hukum terhadap perusahaan.\nApa penyebab yang paling mungkin?\nA. Perusahaannya mengalami kegagalan karena itu.\nB. Jack dan bosnya memiliki masalah pensiun.\nJawaban:
+Premis: Dia mendapatkan beberapa fitoestrogen yang terkonsentrasi.\nApa penyebab yang paling mungkin?\nA. Dia memroses biji flax.\nB. Dia memilih buah labu.\nJawaban:
+Premis: Bidang ini mendapatkan manfaat.\nApa penyebab yang paling mungkin?\nA. Banyak orang menganggap filosofi mengecewakan.\nB. Kami menambahkan pupuk ke bidang ini.\nJawaban:
+Premis: Mereka memakan kucuk setiap pagi.\nApa penyebab yang paling mungkin?\nA. Ada beberapa gadis di sana.\nB. Ada dua armadillo berwarna abu-abu.\nJawaban:
+Premis: Gadis ini mencari buku masakan untuk membantu dirinya.\nApa penyebab yang paling mungkin?\nA. Gadis ini ingin mengetahui ciri-ciri detail dari hidangan ini.\nB. Ikan octopus itu lapar.\nJawaban:
+Premis: Dia mengonsumsi nutrisi tambahan.\nApa penyebab yang paling mungkin?\nA. Tom makan brokoli untuk meninggal.\nB. Tom makan brokoli untuk vitamin.\nJawaban:
+Premis: Tom selalu merasakan detak jantung yang tidak teratur.\nApa akibat yang paling mungkin?\nA. Dokter memberitahu dia bahwa dia memiliki palpasi.\nB. Dia didiagnosis dengan palpasi.\nJawaban:
+Premis: Tahun ini hujan hampir setiap hari dan tanah sangat lembap.\nApa akibat yang paling mungkin?\nA. Muskmelons tidak tumbuh dengan baik.\nB. Air meresap ke dalam tanah dan tanah menjadi lembab.\nJawaban:
+Premis: Kondisi seriusnya membutuhkan perawatan medis segera.\nApa penyebab yang paling mungkin?\nA. Jerry fainting dengan kejutan.\nB. Ayah saya memiliki hipertensi ringan sampai moderat.\nJawaban:
+Premis: Sedikit orang yang dapat menghilangkan ciri-ciri manusia universal dalam pengalaman mereka.\nApa akibat yang paling mungkin?\nA. Dokter memberikan metamphetamine segera.\nB. Sebagian besar orang terlihat memiliki ciri etnosentrisme.\nJawaban:
+Premis: Dia membuat saya suatu gonggong.\nApa penyebab yang paling mungkin?\nA. Ayah kandungnya menempelkan bagian-bagian keras dan kosong secara longgar.\nB. Dia menyentuh tubuh orang lain tanpa persetujuan mereka.\nJawaban:
+Premis: Anak tersebut memakan gandum setiap hari.\nApa akibat yang paling mungkin?\nA. Dia sehat.\nB. Dia sehat dulu.\nJawaban:
+Premis: Pekerja pingsan karena makanan yang mengandung Terbium.\nApa akibat yang paling mungkin?\nA. Dokter memberinya injeksi tenorin.\nB. Dia didiagnosis dalam keadaan toxic sedang.\nJawaban:
+Premis: Pria itu bertanggung jawab atas penjualan.\nApa akibat yang paling mungkin?\nA. Berinteraksi dengan orang adalah bagian dari pekerjaannya.\nB. Dia merupakan bagian dari pasar.\nJawaban:
+Premis: Tom makan banyak pot bramble tahun ini.\nApa penyebab yang paling mungkin?\nA. Serangga memakan tanaman Tom.\nB. Tom menanam benih-benih bramble last year.\nJawaban:
+Premis: Mereka akhirnya membuat mental baru yang terbuat dari titanium.\nApa penyebab yang paling mungkin?\nA. Pabrik perlu memperbaiki kualitas produksinya.\nB. Para ilmuwan sedang menguji jenis bahan baru untuk membuat kapal ruang angkasa.\nJawaban:
+Premis: Air terbentuk.\nApa penyebab yang paling mungkin?\nA. Ion yang bercharge satu mendapatkan elektron.\nB. Jack merusakkan peroksida hidrogen.\nJawaban:
+Premis: Terdapat banyak pasien dengan keganasan pendek.\nApa akibat yang paling mungkin?\nA. Sebagian besar mereka memiliki achondroplasia.\nB. Jumlah mikroorganisme patogen meningkat dengan cepat.\nJawaban:
+Premis: It was almost destroyed.\nApa penyebab yang paling mungkin?\nA. Sebuah perjalanan menemukan sepotong klorit kuning.\nB. Habitat alami digunakan secara berlebihan.\nJawaban:
+Premis: Dia menemukan beberapa hepikas di lapangan.\nApa penyebab yang paling mungkin?\nA. Ibu mertua ingin menanam beberapa tanaman.\nB. Luna ingin mengambil foto beberapa bunga pada awal musim semi.\nJawaban:
+Premis: Tom menemukan bahwa cub hidup di area yang berbeda di zoo tergantung pada jeniskelamin mereka.\nApa penyebab yang paling mungkin?\nA. Tom telah mengamati kebiasaan hidup hewan secara teratur belakangan ini.\nB. Tom berkunjung ke zoo.\nJawaban:
+Premis: Saya berpendapat lotion lebih baik.\nApa penyebab yang paling mungkin?\nA. Saya ingin kehilangan berat badan dan tetap sehat pada waktu yang sama.\nB. Saya pernah menggunakan salep.\nJawaban:
+Premis: Tanah terpenuhi dengan ikan yang sudah busuk.\nApa akibat yang paling mungkin?\nA. Udara di sana penuh dengan bau busuk dari ikan yang sudah busuk.\nB. Belut-belut di sana sering sakit.\nJawaban:
+Premis: Dia membeli berbagai makanan yang mengandung protein dan sejenisnya.\nApa penyebab yang paling mungkin?\nA. Ratu merasa lapar.\nB. Wanita itu berharap anjing poodlesnya mendapatkan nutrisi yang cukup.\nJawaban:
+Premis: Dia dipilih sebagai pejabat di kotaannya.\nApa penyebab yang paling mungkin?\nA. Mike adalah seorang pekerja.\nB. Mike adalah seorang sheriff.\nJawaban:
+Premis: Dia bingung saat dihadapkan pada pilihan.\nApa akibat yang paling mungkin?\nA. Dia kemudian menderita neurosis.\nB. Dia bingung dalam memilih karir yang akan diambil.\nJawaban:
+Premis: Saya menemukan minatnya.\nApa penyebab yang paling mungkin?\nA. Saya memiliki hobi.\nB. Saya memiliki burung kecil.\nJawaban:
+Premis: Tom adalah seorang insinyur.\nApa akibat yang paling mungkin?\nA. Tom merancang berbagai jenis bangunan.\nB. Dia belajar tentang berbagai jenis struktur.\nJawaban:
+Premis: Ternyata itu adalah dinamika.\nApa penyebab yang paling mungkin?\nA. Tom mencari internet tentang sifat kekuatan suara alat musik.\nB. Roda Tommy membuat suara aneh.\nJawaban:
+Premis: Mereka mencapai puncak bukit itu.\nApa akibat yang paling mungkin?\nA. Mereka telah membuat lubang di lereng yang curam yang dulu terumbu dengan tumbuhan tebal.\nB. Mereka merasakan udara jauh lebih dingin dibandingkan dengan kaki bukit itu.\nJawaban:
+Premis: Remaja laki-laki ini belum pernah memiliki hubungan romantik.\nApa akibat yang paling mungkin?\nA. Onani tidak pernah terjadi.\nB. Onani terjadi dengan frekuensi yang tinggi.\nJawaban:
+Premis: Tom memilih kiwi untuk mengumpulkan fruktosa.\nApa penyebab yang paling mungkin?\nA. Makanan digunakan untuk menyembuhkan penyakit saya.\nB. Tom ingin mengumpulkan fruktosa.\nJawaban:
+Premis: Proses penyelesaian masalah seluruhnya salah.\nApa penyebab yang paling mungkin?\nA. Tutor tersebut gagal merangkum topik utama.\nB. Tom telah menyusun persamaan yang salah.\nJawaban:
+Premis: Para ilmuwan menginjeksikan nitrit ke dalam darah anak-anak.\nApa akibat yang paling mungkin?\nA. Para ilmuwan menemukan bahwa kapasitas membawa oksigen darah anak-anak menurun.\nB. Feses tidak dapat dikeluarkan melalui anus.\nJawaban:
+Premis: Kami melihat sesuatu terjun dari udara.\nApa akibat yang paling mungkin?\nA. Tidak ada yang menjelaskan fenomena itu kepada kita.\nB. Guru menjelaskan bahwa itu adalah burung booby mencari makanannya.\nJawaban:
+Premis: Dia menemukan ada sesuatu yang sama dengan aktinida.\nApa penyebab yang paling mungkin?\nA. Mary salah menggunakan clozapine.\nB. Lucy baru-baru ini melakukan penelitian tentang berkelium.\nJawaban:
+Premis: Waitress kepadanya.\nApa penyebab yang paling mungkin?\nA. Tom farted di kelas.\nB. Tamu meminta piring baru.\nJawaban:
+Premis: Usia bertambah membuat tim mendapatkan pengetahuan lebih banyak.\nApa akibat yang paling mungkin?\nA. Usahanya menjadi lebih mudah untuknya.\nB. Dia menjadi lebih hebat dibandingkan sebelumnya.\nJawaban:
+Premis: Guru kita menginformasikan bahwa itu adalah kimiluminansi.\nApa penyebab yang paling mungkin?\nA. Kami penasaran dengan cahaya yang terhasil setelah reaksi kimia.\nB. Kami ingin mengetahui agen penyakit menular yang terkecil.\nJawaban:
+Premis: Tom telah menaruh bismut ke dalam tabung kimia.\nApa akibat yang paling mungkin?\nA. Dia menemukan bahwa bismut teroksidasi setelah beberapa jam.\nB. Ada lebih banyak karbon dioksida di udara.\nJawaban:
+Premis: Kemudian orang menggunakan kepuasan pisang untuk menurunkan berat badan.\nApa penyebab yang paling mungkin?\nA. Starch résistant sulit dicerna.\nB. Flavonoid baik untuk kesehatan kita.\nJawaban:
+Premis: Terjadi kecelakaan.\nApa akibat yang paling mungkin?\nA. Seorang jurnalis menjelaskannya kepada penonton.\nB. Dia memiliki ciri-ciri yang mudah terkena penyakit jiwa.\nJawaban:
+Premis: Saya telah melihat tiga tahap dalam siklus hidup kutu.\nApa akibat yang paling mungkin?\nA. Mereka menyelesaikan siklus hidup mereka dalam dua tahun.\nB. Kutu memiliki setidaknya tiga tahap.\nJawaban:
+Premis: Dia menyerangnya tanpa bukti.\nApa akibat yang paling mungkin?\nA. Dia adalah orang yang sangat gila.\nB. Midwifes datang kepadanya.\nJawaban:
+Premis: Dia memiliki saham dalam bagian kepemilikan fractional di perusahaan ini sekarang.\nApa penyebab yang paling mungkin?\nA. Dia membeli beberapa saham.\nB. Dia suka wanita di perusahaan ini.\nJawaban:
+Premis: Lucy merawat bayinya dengan baik.\nApa akibat yang paling mungkin?\nA. Bayinya sehat ketika dewasa.\nB. Dia perlahan-lahan dibangunkan untuk kehidupan.\nJawaban:
+Premis: Dokter menemukan bahwa jumlah pigment merah hemoglobin terlalu tinggi.\nApa penyebab yang paling mungkin?\nA. Tom mengambil beberapa darah untuk memeriksa tubuhnya.\nB. Pasien menunjukkan gejala natriuresis.\nJawaban:
+Premis: Putih menyarankan bahwa peneliti harus mempelajari ciri chromosom pada vole.\nApa penyebab yang paling mungkin?\nA. Lab ingin mempelajari elefant.\nB. Laboratorium diminta untuk mempelajari ciri chromosom khusus.\nJawaban:
+Premis: Sekolah menyediakan makanan yang sehat untuk siswa.\nApa akibat yang paling mungkin?\nA. Mereka menanam banyak padi setiap tahunnya.\nB. Siswa dapat memakan banyak buah dan sayuran setiap hari.\nJawaban:
+Premis: Mereka menemukan banyak makanan.\nApa penyebab yang paling mungkin?\nA. Penembak berhasil menangkap banyak kelinci hutan.\nB. Mereka adalah pendatang pertama di pulau ini.\nJawaban:
+Premis: Ekor putih sangat menonjol.\nApa akibat yang paling mungkin?\nA. Cottontails selalu tertangkap oleh burung elang.\nB. Yang paling terkesan adalah kepalanya yang indah tetapi berbeda.\nJawaban:
+Premis: Saya adalah seorang penari yang baik.\nApa akibat yang paling mungkin?\nA. Saya merasa enerjik.\nB. Saya memiliki momen rotasi.\nJawaban:
+Premis: Tom memiliki rasa sakit perut yang berkepanjangan.\nApa penyebab yang paling mungkin?\nA. Tom mengonsumsi sejumlah besar larut pencernaan oleh kesalahan.\nB. Buah pisang yang dibeli Tom sedikit tidak masak.\nJawaban:
+Premis: Biosfer tidak seimbang.\nApa akibat yang paling mungkin?\nA. Jumlah beruang penyetan menjadi meluap-luap.\nB. Lingkungan menjadi lebih baik.\nJawaban:
+Premis: Dia ingin beristirahat.\nApa penyebab yang paling mungkin?\nA. Dia berlari.\nB. Jack makan diet sehat dan seimbang.\nJawaban:
+Premis: Dia kacau lagi serius.\nApa penyebab yang paling mungkin?\nA. Dia melihat makhluk dengan mulut besar dan kepala kecil.\nB. Dia seolah-olah kacau beberapa detik yang lalu.\nJawaban:
+Premis: Lain negara menghormati posisinya.\nApa penyebab yang paling mungkin?\nA. Pada 16 Desember 1902, letusan gunung berapi Mount Peree di Karibia mengguncang dunia.\nB. Roma adalah imperium yang hebat.\nJawaban:
+Premis: Sel-sel Tom mulai bereproduksi secara tidak terkontrol.\nApa penyebab yang paling mungkin?\nA. Tom memiliki kanker paru-paru.\nB. Tekanan darah ayah Tom turun karena pemberian transfusi darah yang berlebihan.\nJawaban:
+Premis: Kakek Mario membunuh seorang perempuan lama.\nApa akibat yang paling mungkin?\nA. Dia ditakdirkan untuk dipenjarakan.\nB. Dia meninggal tidak lama setelah itu.\nJawaban:
+Premis: Penelitiannya secara utama dilakukan pada eukaryota.\nApa penyebab yang paling mungkin?\nA. Mereka perlu mempelajari daerah enhancer yang mengontrol ekspresi gen dalam organisme.\nB. Banyak orang yang diuji kandungan air seninya.\nJawaban:
+Premis: Tom melihat ombak mewakili jurang.\nApa penyebab yang paling mungkin?\nA. Guru menggambar gambaran tentang tanah setempat.\nB. Sungai di depan rumah Tom terpolusi.\nJawaban:
+Premis: Saya mulai meningkatkan keterulungannya.\nApa penyebab yang paling mungkin?\nA. Saya mencari suatu jenis serat melalui strukturnya.\nB. Mentor saya menekankan keandalan pengukuran saya.\nJawaban:
+Premis: Mereka menghasilkan lebih banyak generasi.\nApa penyebab yang paling mungkin?\nA. Terdapat lebih banyak dugong berkumpul di laut.\nB. Peneliti ingin mendapatkan granulosit.\nJawaban:
+Premis: Dia hanya mengamati reaksi glikolisis.\nApa penyebab yang paling mungkin?\nA. Bob mengukur jumlah a pada awal reaksi.\nB. Tom menghilangkan semua mitokondria dalam sel dan mengamati reaksi yang terjadi di dalamnya.\nJawaban:
+Premis: Jack melihat foto keluarga.\nApa akibat yang paling mungkin?\nA. Jack menemukan bahwa setiap orang dalam foto memiliki bentuk mulut yang berbeda.\nB. Jack menemukan bahwa setiap orang dalam foto memiliki bentuk hidung yang berbeda.\nJawaban:
+Premis: Tom meletakkan daging beku di air.\nApa akibat yang paling mungkin?\nA. Setelah satu jam, daging beku itu meleleh.\nB. Setelah satu jam, daging beku itu hilang.\nJawaban:
+Premis: Dia biasanya melakukan perjalanan.\nApa penyebab yang paling mungkin?\nA. Tom selalu mengalami konvulsif.\nB. Dia adalah seorang naturalis.\nJawaban:
+Premis: Ekonomi tertarik oleh anomali ini.\nApa penyebab yang paling mungkin?\nA. Negara ini dalam resesi memiliki kota dengan kemakmuran.\nB. Terjadi masalah korosi serius pada lithosfer.\nJawaban:
+Premis: Peneliti telah mengumpulkan banyak invertebrata.\nApa akibat yang paling mungkin?\nA. Peneliti dapat dengan jelas mengklasifikasikan mereka.\nB. Peneliti telah melakukan banyak penelitian.\nJawaban:
+Premis: Setiap orang berpendapat bahwa Jack adalah orang yang egois.\nApa penyebab yang paling mungkin?\nA. Jack tidak menyikat gigi setiap hari.\nB. Jack selalu merisih diri dari orang lain dan mencoba segala cara untuk mendapatkan apa yang diinginkannya tanpa memperhatikan kebutuhan dan perasaan orang lain.\nJawaban:
+Premis: Cuaca sangat buruk pada musim semi ini.\nApa akibat yang paling mungkin?\nA. Jumlah pucuk sangat berkurang.\nB. Bunga-bunga layu.\nJawaban:
+Premis: Ini tidak tergantikan dalam pasta gigi.\nApa penyebab yang paling mungkin?\nA. Ticks sensitif dengan aroma hewan berdarah panas.\nB. Karbonat kalsium adalah abrasif yang lembut.\nJawaban:
+Premis: John ingin melihat daftar artikel.\nApa akibat yang paling mungkin?\nA. Dokter memberi dia beberapa trombin.\nB. Dia melihat bibliografi dan menemukan catatan di dalamnya.\nJawaban:
+Premis: HATs terlibat dalam aktivasi transkripsi.\nApa akibat yang paling mungkin?\nA. Orang paraplegia lebih kurang sensitif terhadap stimulasi saraf.\nB. HATs adalah molekul yang panas.\nJawaban:
+Premis: Mereka melahirkan Billy.\nApa penyebab yang paling mungkin?\nA. Tom adalah mahasiswa fokus pada fisika.\nB. Tom imigrasi ke Afrika dan bertemu Mary.\nJawaban:
+Premis: Mereka berhenti di pohon di depan.\nApa penyebab yang paling mungkin?\nA. Kumpulan burung cecak terbang jauh-jauh.\nB. Penduduk desa memulai dari pohon buah yang paling mudah ditanam.\nJawaban:
+Premis: Tom alergi dengan daging sapi.\nApa akibat yang paling mungkin?\nA. Pemeriksaan menunjukkan bahwa dia telah mengonsumsi jumlah besar efeedin.\nB. Tom tidak pernah makan burger.\nJawaban:
+Premis: Petani menanam celery.\nApa akibat yang paling mungkin?\nA. Dia mengenal sifatnya dengan sangat baik.\nB. Dia mendapatkan karote tahun ini.\nJawaban:
+Premis: Interface sistem biologis tersebut被系统化翻译后变为：\nApa penyebab yang paling mungkin?\nA. Nutrisi sebagian dalam tubuh pasien terdegradasi.\nB. Rencana destruksi alien dimulai dari struktur esensial dalam sistem biologis.\nJawaban:
+Premis: Tom tidak dapat mempelajari pembagian.\nApa akibat yang paling mungkin?\nA. Ibu dia marah karena dia tidak mempelajari operasi aritmatika dasar.\nB. Dia bisa merancang salah satu dari minimalis.\nJawaban:
+Premis: Gigi tetrapa telah dihapus.\nApa akibat yang paling mungkin?\nA. Tetrapa tidak bisa makan sekarang.\nB. Tetrapa bisa mendapatkan nutrisi.\nJawaban:
+Premis: Dia sangat lelah sehingga tertidur.\nApa penyebab yang paling mungkin?\nA. Tom berdate dengan pacarnya pada pukul lima sore di hari Natal.\nB. Tom menghabiskan pagi hari mencuci pakaian dan membersihkan kamar.\nJawaban:
+Premis: Genggamannya menggaruk jari彼女。\nApa penyebab yang paling mungkin?\nA. Dokter akan memberikan cairan kepadanya。\nB. Melinda pergi ke danau untuk menangkap koral。\nJawaban:
+Premis: Tom telah makan sesuatu yang mengandung karbohidrat.\nApa akibat yang paling mungkin?\nA. Gula darahnya naik.\nB. Dia mengalami masalah pencernaan.\nJawaban:
+Premis: Ceritanya yang sebenar menjadi adaptasi layar lebar.\nApa akibat yang paling mungkin?\nA. Banyak penonton berkomentar tentang efek dramatiknya.\nB. Lebih banyak orang di Amerika dibangunkan olehnya.\nJawaban:
+Premis: Air digunakan sebagai sumber listrik baru.\nApa akibat yang paling mungkin?\nA. Malam hari pada musim gugur menjadi lebih panjang.\nB. Kesulitan dari tenaga listrik air mulai terlihat.\nJawaban:
+Premis: Jerboas lapar.\nApa akibat yang paling mungkin?\nA. Mereka mengambil makanan dengan kaki mereka.\nB. Mereka memiliki akses yang berbeda ke makanan.\nJawaban:
+Premis: Dia didiagnosis dengan pancreatitis di rumah sakit.\nApa penyebab yang paling mungkin?\nA. Pankreas Tim bengkak.\nB. Tom terinfeksi dengan virus necrosis pankreas.\nJawaban:
+Premis: Dia adalah teknisi.\nApa akibat yang paling mungkin?\nA. Pengetahuannya sangat mendalam.\nB. Dia perlu menyerap air sesekali.\nJawaban:
+Premis: Petani tahu cara memolifikasi bunga.\nApa penyebab yang paling mungkin?\nA. Tom perlu memolifikasi tanamannya.\nB. Perkebunan ini menanam banyak bunga.\nJawaban:
+Premis: Mereka menemukan bahwa payudara tumbuh pada waktu ini.\nApa penyebab yang paling mungkin?\nA. Ibu elephant betina di zoo mulai tua.\nB. Peneliti fokus pada perawatan payudara selama beberapa minggu pertama.\nJawaban:
+Premis: Kera di zoo itu sendiri tahun lalu.\nApa akibat yang paling mungkin?\nA. Tahun ini ia memiliki seekor kera bayi di punggungnya.\nB. Zoo itu mempekerjakan banyak penjaga untuk menyelesaikan tugasnya.\nJawaban:
+Premis: Mereka menemukan bahwa hewan-hewan tersebut hidup dalam habitat mereka sejak lama dan tidak pernah pindah.\nApa penyebab yang paling mungkin?\nA. Kambing mudah melarikan diri.\nB. Mereka mengamati kebiasaan hidup banyak hewan liar di Afrika Selatan.\nJawaban:
+Premis: Amy memiliki berat yang tidak biasa ringan dibandingkan dengan orang lain.\nApa penyebab yang paling mungkin?\nA. Amy lahir dengan kekurangan pada kaki.\nB. Berat A lebih ringan daripada berat B.\nJawaban:
+Premis: Lila terinfeksi amebiasis.\nApa akibat yang paling mungkin?\nA. Dia merasa tidak nyaman.\nB. Kulitnya dapat tetap utuh.\nJawaban:
+Premis: Banyak es yang mencair.\nApa penyebab yang paling mungkin?\nA. Lingkungan sekitar es berubah.\nB. Glaciers besar runtuh dan terburu-buru ke bawah tanah.\nJawaban:
+Premis: Banyak di antaranya menggunakan sungai sebagai habitat mereka.\nApa penyebab yang paling mungkin?\nA. Banyak hewan mencari habitat yang sesuai.\nB. Varnish menggunakan refraksi cahaya.\nJawaban:
+Premis: Angin di sini sangat kuat.\nApa akibat yang paling mungkin?\nA. Angin mengangkut banyak partikel silt.\nB. Pertanian dan rumah akan hancur karena angin dan hujan lebat.\nJawaban:
+Premis: Tanah yang terperangkap es secara permanen digunakan untuk melindunginya.\nApa penyebab yang paling mungkin?\nA. Petani meletakkan kacang kacang merah tersebut di bawah kondisi kekeringan.\nB. Hanya Permaforst yang dapat mempertahankan biji-bijian khusus tersebut.\nJawaban:
+Premis: Penari-penari kuda ini sangat lapar.\nApa akibat yang paling mungkin?\nA. Mereka mempersiapkan sesuatu untuk melindungi lutut mereka.\nB. Mereka menikmati makanan enak dengan sangatlah.\nJawaban:
+Premis: Luke adalah bioawan.\nApa akibat yang paling mungkin?\nA. Dia spesialis dalam bidang biokimia yang menarik minatnya.\nB. Beberapa selnya mati lebih cepat dibanding non-vegatarian mereka.\nJawaban:
+Premis: Tom menaruh tali pengaman pada kulit pohon.\nApa akibat yang paling mungkin?\nA. Dia perlu membuka kliknya sebelum menggunakan tali tersebut.\nB. Kulit pohon itu rusak.\nJawaban:
+Premis: Satu orang tinggal di atmosfer dan orang lain tinggal di luar atmosfer.\nApa akibat yang paling mungkin?\nA. Dia telah batuk dan menghawatirkan.\nB. Orang yang tinggal di atmosfer masih hidup dan orang yang tinggal di luar atmosfer sudah mati.\nJawaban:
+Premis: Tubuh tidak dapat diidentifikasi.\nApa penyebab yang paling mungkin?\nA. Polisi menemukan tubuh yang telah dibakar.\nB. Tubuh terpapar oleh serangga.\nJawaban:
+Premis: Erosi tanah serius di daerah ini.\nApa akibat yang paling mungkin?\nA. Perlu perhatian internasional.\nB. Pemerintah memerintahkan penanaman hutan penghalang angin.\nJawaban:
+Premis: Dia menemukan vertebra dalam strukturnya.\nApa penyebab yang paling mungkin?\nA. Dokter melihat bagian meninge pada pasien dari hasil CT sebagai penutup otak.\nB. Jessy melihat gambar punggung tulang belakang.\nJawaban:
+Premis: Malam sudah mendalam.\nApa akibat yang paling mungkin?\nA. Hari ini mereka dimakan oleh ikan teri kuning.\nB. Lalat buaya keluar untuk makanan.\nJawaban:
+Premis: John meng Explore variasi ketinggian rawa.\nApa akibat yang paling mungkin?\nA. Dia menemukan relief topografi yang sangat tinggi.\nB. Dia menemukan relief topografi yang sangat rendah.\nJawaban:
+Premis: Dia terkena penyakit.\nApa penyebab yang paling mungkin?\nA. Tom akan bertemu dengan pacarnya yang disayanginya.\nB. Dia telah overkerja dirinya.\nJawaban:
+Premis: Mahasiswa ingin mengetahui yang paling jarang terdapat alamiah dari unsur langka yang terjadi secara alami.\nApa akibat yang paling mungkin?\nA. Guru mengatakan kepada mereka itu adalah thulium.\nB. Penelitian mereka menyimpulkan bahwa prometium adalah.\nJawaban:
+Premis: Dokter mengambil beberapa serat saraf dari dinding folikel yang mengelilingi oosit.\nApa penyebab yang paling mungkin?\nA. Prosedur perawatan memerlukan Serotonin.\nB. Peneliti ingin mengambil beberapa barium.\nJawaban:
+Premis: Ibunya membeli mixer listrik.\nApa penyebab yang paling mungkin?\nA. Tom ingin membuat beberapa cider.\nB. Tom suka minum smoothie.\nJawaban:
+Premis: Saya menasihati putri saya untuk menjadi ahli internal.\nApa penyebab yang paling mungkin?\nA. Saya adalah evolusi.\nB. Saya berpendapat bahwa spesialis dalam internal medicine sangat membantu.\nJawaban:
+Premis: Hasil penelitian menunjukkan bahwa itu adalah sel-interstisial.\nApa penyebab yang paling mungkin?\nA. DAG gagal pada sel-R.\nB. Peneliti sedang mengamati antara which sel-sel mana sperma diproduksi.\nJawaban:
+Premis: Dia membuka pintu pendingin.\nApa penyebab yang paling mungkin?\nA. Si kaya ingin melihat sampel.\nB. Jack ingin makan jamur.\nJawaban:
+Premis: Wisatawan berjalan kaki selama 3 jam.\nApa akibat yang paling mungkin?\nA. Mereka berkeringat banyak.\nB. Mereka melakukan observasi di gunung saat siang hari.\nJawaban:
+Premis: Dia menjadi vegetarian.\nApa penyebab yang paling mungkin?\nA. Ibu itu ingin hidup lebih lama dan sehat.\nB. Dia adalah seorang wanita berani.\nJawaban:
+Premis: Tubuhnya memiliki penyerapan yang buruk dari asam amino.\nApa akibat yang paling mungkin?\nA. Dokter merekomendasikan agar dia mengonsumsi suplemen arginin untuk membantu depolarisasi sel usus untuk memperbaiki.\nB. Nutrisionis menasihatinya untuk lebih banyak makan kacang-kacangan.\nJawaban:
+Premis: Dokter telah meresepkan lebih banyak delavirdine untuk dia.\nApa penyebab yang paling mungkin?\nA. Obat yang diresepkan sebelumnya oleh dokter tidak berhasil pada Tom.\nB. Dokter menyarankan Jack untuk memakan lebih banyak makanan yang kaya akan asam amino.\nJawaban:
+Premis: Vipernya adalah yang paling beracun.\nApa penyebab yang paling mungkin?\nA. Spesies ini memiliki mutasi signifikan pada abad terakhir.\nB. Ada banyak hewan berbeda di hutan.\nJawaban:
+Premis: Sistem imunnya runtuh.\nApa penyebab yang paling mungkin?\nA. John terinfeksi virus HIV.\nB. Dokter Ruhr menemukan bahwa sel darah putih Ruhr meningkat, dan ada leukositosis.\nJawaban:
+Premis: Wajah semua penonton yang menonton horor diproyeksikan ke layar.\nApa akibat yang paling mungkin?\nA. Mereka melihat wajah mereka sendiri yang pucat.\nB. Mereka melihat wajah mereka sendiri yang merah.\nJawaban:
+Premis: Dia merasakan kesedihan.\nApa penyebab yang paling mungkin?\nA. Dia memiliki rasa empati yang kuat.\nB. Tom melihat objek yang mewakili kesulitan para pendiri.\nJawaban:
+Premis: Tanaman tumbuh dengan baik.\nApa penyebab yang paling mungkin?\nA. Petani menggunakan banyak pupuk untuk menanam tanaman.\nB. Ada pinus di halaman.\nJawaban:
+Premis: Jackson ingin mempelajari hewan-hewan keluarga manusia.\nApa akibat yang paling mungkin?\nA. Dia mengumpulkan beberapa uang untuk biayanya.\nB. Profesor Jackson merekomendasikan dia untuk mempelajari homonid.\nJawaban:
+Premis: Restoran Tom tidak berhasil.\nApa akibat yang paling mungkin?\nA. Dia berkeliling jalan untuk mendapatkan pelanggan.\nB. Manajernya membantu dia menyelesaikannya.\nJawaban:
+Premis: Mereka memiliki penampilan.\nApa penyebab yang paling mungkin?\nA. Sel ini memiliki necrosis.\nB. Mereka semua adalah daging.\nJawaban:
+Premis: Peneliti melakukan nitrifikasi.\nApa penyebab yang paling mungkin?\nA. Peneliti ingin mengoksida amonia menjadi nitrat.\nB. Peneliti menambahkan jenis asam amino ini ke dalam air.\nJawaban:
+Premis: Setiap hari ada beberapa jamur yang menyerang tubuh kita.\nApa akibat yang paling mungkin?\nA. Sistem imun melindungi tubuh kita dari penyakit.\nB. Kita mendapatkan manfaat dari produsen untuk kualitas hidup yang buruk.\nJawaban:
+Premis: Dia terinfeksi virus.\nApa penyebab yang paling mungkin?\nA. Pasien telah diberi vaksin dalam obat.\nB. Serangga berkontak dengan luka pada kulitnya.\nJawaban:
+Premis: Sembilan di antaranya biasanya memiliki delusi dan yang lainnya kadang-kadang memiliki delusi.\nApa penyebab yang paling mungkin?\nA. Ada sepuluh orang di rumah sakit yang menderita schizophrenia.\nB. Polisi membutuhkan anjing pengejar dengan mata tajam.\nJawaban:
+Premis: Ia mulai tumbuh gigi gergaji.\nApa penyebab yang paling mungkin?\nA. Ibu elefantus di zoo melahirkan.\nB. Elefantus betina di zoo sudah tua.\nJawaban:
+Premis: Gerakan yang dilakukan menyebabkan dehiscensnya.\nApa akibat yang paling mungkin?\nA. Ada perubahan pada penglihatannya.\nB. Luka yang sebelumnya terhubung terpisah.\nJawaban:
+Premis: Prey mereka dapat melarikan diri dari bencana pada saat ini.\nApa penyebab yang paling mungkin?\nA. Loggerheads banyak di laut.\nB. Beberapa hewan beristirahat di musim dingin.\nJawaban:
+Premis: Sekarang kita adalah wisatawan.\nApa akibat yang paling mungkin?\nA. Keberhasilan mereproduksi bunga impian dia dipengaruhi.\nB. Kami memulai perjalanan kami.\nJawaban:
+Premis: Amatir tersebut mengamati bentuk bulan melalui gambar dari satelit.\nApa akibat yang paling mungkin?\nA. Suatu jenis Emulsi diproduksi.\nB. Bentuknya berada dalam rentang yang sangat tidak reguler hingga bola.\nJawaban:
+Premis: Bapanya memberitahu dia itu hanya manifestasi dari aktivitas vulkanik.\nApa penyebab yang paling mungkin?\nA. John terkejut dengan bentuk aneh dari makhluk tersebut.\nB. Warga desa takut akan geiser.\nJawaban:
+Premis: Orang tua lebih tradisional daripada anak-anak.\nApa akibat yang paling mungkin?\nA. Orang tua memiliki gaya yang berbeda dari anak-anak.\nB. Ibu laki-laki itu membeli bayam untuk putranya.\nJawaban:
+Premis: Dia mencairkan一些冰块。为了保持因果关系准确，这里翻译为：其冰块。\nApa penyebab yang paling mungkin?\nA. Tom ingin membuat jus anggur.\nB. Tom lupa membawa air untuk melakukan eksperimen.\nJawaban:
+Premis: Peneliti telah mendeteksi zat-zat beracun.\nApa penyebab yang paling mungkin?\nA. Peneliti melakukan tes pada ekskrement tentara.\nB. Ahli kimia memeriksa zat-zat kimia yang terdapat dalam marihuana.\nJawaban:
+Premis: Bapak Jackson akan membangun sebuah rumah.\nApa akibat yang paling mungkin?\nA. Kakek Jackson membawa mesin-mesin.\nB. Dia membeli banyak kayu.\nJawaban:
+Premis: Tom dan Lucy bercerai.\nApa akibat yang paling mungkin?\nA. Anak-anak diadilan untuk diadopsi oleh ibu mereka.\nB. Terjadi resonansi.\nJawaban:
+Premis: Mereka membentuk ekosistem yang sehat.\nApa penyebab yang paling mungkin?\nA. Semua makhluk alam berada dalam keseimbangan.\nB. Kelp memiliki kemampuan adaptasi yang kuat.\nJawaban:
+Premis: Mereka hidup di wilayah-wilayah hutan.\nApa penyebab yang paling mungkin?\nA. Orang-orang tersebut adalah pendaki.\nB. Jenis hewan ini umumnya memburu Scavengers.\nJawaban:
+Premis: Ikan harimau其实这个句子已经是中文了，不是英文。如果你想要将其翻译成印尼语，可以参考以下翻译：\nApa akibat yang paling mungkin?\nA. Harimau tersebut tidak bisa melihatnya jelas.\nB. Harimau tersebut ingin memakaninya.\nJawaban:
+Premis: Linda baik dalam mengetik.\nApa akibat yang paling mungkin?\nA. Dia tidak dapat menemukan pekerjaan.\nB. Dia direkrut oleh perusahaan kuat untuk potensinya membuat keuntungan.\nJawaban:
+Premis: Dia makan brokoli.\nApa penyebab yang paling mungkin?\nA. John ingin menyerap nutrisi tambahan.\nB. Mikifibril memiliki jumlah myofilamen yang berbeda.\nJawaban:
+Premis: Karyawan diperintahkan untuk melindungi tanah topografi dari erosi angin.\nApa akibat yang paling mungkin?\nA. Mereka membangun sebuah bendungan.\nB. Mereka menanam barisan pohon sebagai barisan hiasan penghalang angin.\nJawaban:
+Premis: Komandan Cina itu berkata bahwa terima kasih pada strategi yang tepat,\nApa penyebab yang paling mungkin?\nA. pasukan Cina menunjukkan kapasitas super dalam perang dan memperoleh kemenangan besar.\nB. dia makan seluruh buah pepaya.\nJawaban:
+Premis: Tom suka geologi dan biologi.\nApa akibat yang paling mungkin?\nA. Dia memilih untuk studi paleontologi.\nB. Dia menikmati seni sains mendeskripsikan kehidupan yang masih hidup.\nJawaban:
+Premis: Tentara itu berpikir bagaimana membunuh naga.\nApa akibat yang paling mungkin?\nA. Dia menyingkirkan penggunaan dinamit.\nB. Dia menyingkirkan penggunaan racun.\nJawaban:
+Premis: Kekinianan semuanya di kebunnya dimakan oleh mereka.\nApa akibat yang paling mungkin?\nA. Semua bibit tanaman di kebunnya terinfeksi oleh mereka.\nB. Tom mungkin memiliki salmonellosis.\nJawaban:
+Premis: Sebagian besar bonsai baru memulai siklus pertumbuhannya.\nApa penyebab yang paling mungkin?\nA. Musim semi datang.\nB. Saat musim dingin tiba, pohon-pohon mulai mengecil.\nJawaban:
+Premis: Eric mengatakan bangunan ini memiliki penampilan megah.\nApa penyebab yang paling mungkin?\nA. Jumlah basofil pada gadis miskin ini berada di luar batas normalitas.\nB. Eric cermat memeriksa sifat-sifat bangunan ini.\nJawaban:
+Premis: Hasil yang dilaporkan terutama berkaitan dengan tahap-tahap anak-anak.\nApa penyebab yang paling mungkin?\nA. Penelitian tentang munculnya Roseola telah dilakukan.\nB. Susan menemukan banyak peserta untuk penelitiannya.\nJawaban:
+Premis: Hasilnya menunjukkan berbagai gejala dari insomnia hingga kematian pada mereka.\nApa penyebab yang paling mungkin?\nA. Biolog mendatangi Iceland.\nB. Subjek diberi steroïd.\nJawaban:
+Premis: Ini menunjukkan bahwa dia memiliki kemampuan kesejahteraan yang kuat.\nApa penyebab yang paling mungkin?\nA. Dokter hewan telah injeksi beberapa oksitosin ke dalam tubuh anjing.\nB. Fetus memiliki kemampuan kesejahteraan yang kuat untuk bertahan hidup secara mandiri dari tubuh wanita.\nJawaban:
+Premis: Penumpang menemukan pinus dengan tinggi yang sama.\nApa penyebab yang paling mungkin?\nA. Helikopter melewati hutan pinus.\nB. Mario dan Mary memiliki argumen yang sepenuhnya berlawanan tentang masalah yang sama.\nJawaban:
+Premis: Ayah saya didiagnosis menderita aterosklerosis.\nApa akibat yang paling mungkin?\nA. Kita tahu itu sudah mulai berkembang beberapa tahun lalu.\nB. Dia pergi ke rumah sakit untuk mengobati tulang belakang.\nJawaban:
+Premis: Petani mengangkat melon yang sudah matang.\nApa penyebab yang paling mungkin?\nA. Petani ingin membeli beberapa strychnine.\nB. Tendril terdekat dengan airmelon berubah menjadi coklat.\nJawaban:
+Premis: Dia menyanyikan melalui mikrofon.\nApa akibat yang paling mungkin?\nA. Gelombang suara diubah menjadi tegangan listrik.\nB. Gelombang suara diubah menjadi hambatan listrik.\nJawaban:
+Premis: Jack makan tin yang sudah lewat tanggal kedaluwarsa dan masuk coma.\nApa akibat yang paling mungkin?\nA. Dia didiagnosis mengidap botulisme.\nB. Dia mati akibat konsumsi cyanida.\nJawaban:
+Premis: Dia memutuskan untuk menonton film tersebut sampai akhir.\nApa penyebab yang paling mungkin?\nA. Lucy telah menunggu Tom selama waktu yang lama.\nB. Lucy tidak tahu mengapa gadis itu dibunuh dalam trailer.\nJawaban:
+Premis: Lelaki tua itu meninggal.\nApa akibat yang paling mungkin?\nA. Dia meninggal akibat kanker paru-paru.\nB. Seluruh hidupnya berakhir.\nJawaban:
+Premis: Kucing itu mencoba mencari bahan yang paling lembut.\nApa akibat yang paling mungkin?\nA. Mereka membangun sarang dengan bahan-bahan yang mereka temukan.\nB. Mereka makan bahan-bahan yang mereka temukan.\nJawaban:
+Premis: Susan dituduh melakukan plagiat.\nApa penyebab yang paling mungkin?\nA. Tom hanya mengikuti satu kontes.\nB. Susan menggunakan properti intelektual John tanpa izin.\nJawaban:
+Premis: 那些陡峭的山坡被植被覆盖。\nApa akibat yang paling mungkin?\nA. Anda bisa melihat banyak burung muskrat menggali di sana.\nB. Gempa bumi dan banjir selalu terjadi.\nJawaban:
+Premis: Tingkat air sungai naik tajam pada musim semi.\nApa penyebab yang paling mungkin?\nA. Saat ini sudah awal musim semi.\nB. Sungai di depan rumah Tom hampir padam pada musim dingin ketika curah hujan sedikit.\nJawaban:
+Premis: Ikan hiu itu terbakar matahari secara parah.\nApa penyebab yang paling mungkin?\nA. Ikan hiu itu dikunci dalam penjara di bawah sinar matahari.\nB. Kudzu itu terpapar pada cahaya matahari.\nJawaban:
+Premis: Dia banyak mengetahui tentang Ceres.\nApa penyebab yang paling mungkin?\nA. Ayah saya pernah menjadi frater.\nB. Dia mempelajari objek terbesar di tata surya asteroid.\nJawaban:
+Premis: Karyawan pabrik ini pergi ke hemisfera selatan untuk mencari bahan yang lebih gelap.\nApa penyebab yang paling mungkin?\nA. Pabrik ingin menambang olivin.\nB. Pabrik mempekerjakan karyawan untuk mengekstrak terpine dari pohon pinus.\nJawaban:
+Premis: Dia menyerap enzim enteroisin.\nApa akibat yang paling mungkin?\nA. Enzim-enzim lain di tubuhnya aktif.\nB. Dia menyerap protein sekitar dua kali lipat dari grass.\nJawaban:
+Premis: Susu rasa asam.\nApa penyebab yang paling mungkin?\nA. Tom pasteurkan susu asam.\nB. Bakteri dalam susu telah berubah.\nJawaban:
+Premis: Sebentar lagi, dia meninggal karena penyakit hati yang semakin parah.\nApa penyebab yang paling mungkin?\nA. Meski menderita sirosis, Bob masih minum berlebihan.\nB. John memiliki asma.\nJawaban:
+Premis: Tom pergi ke dokter gigi untuk memperbaiki kariesnya.\nApa akibat yang paling mungkin?\nA. Proses pengobatan menghasilkan sampah amalgam.\nB. Dokter mengatakan bahwa Tom memiliki tekanan darah tinggi.\nJawaban:
+Premis: Pendarahan haid Mary telah berkurang.\nApa penyebab yang paling mungkin?\nA. Mary menyusui anaknya.\nB. Mary sudah mengalami menopause.\nJawaban:
+Premis: Tom memiliki penglihatan yang baik.\nApa akibat yang paling mungkin?\nA. Tom sangat memperhatikan perlindungan mata.\nB. Tom menemukan cobra beracun tepat waktu.\nJawaban:
+Premis: Lucy telah mendirikan komunitas untuk membantu anak-anak yang tidak memiliki tempat tinggal.\nApa akibat yang paling mungkin?\nA. Perlu banyak orang untuk menjelaskannya.\nB. Banyak teman-temannya bergabung dalam keluarga hangat.\nJawaban:
+Premis: Para ilmuwan menghindari dampak besar atom.\nApa penyebab yang paling mungkin?\nA. Dia sedang melakukan penelitian tentang atom.\nB. Penggunaan nuklir yang tidak bertanggung jawab sangat menakutkan.\nJawaban:
+Premis: Tom memiliki kijang rusa.\nApa akibat yang paling mungkin?\nA. Kijang rusa tersebut makan ikan dengan cepat.\nB. Kijang rusa tersebut tidur banyak.\nJawaban:
+Premis: Dia berkata dia mendapatkan semut wanita.\nApa penyebab yang paling mungkin?\nA. Tom menemukan semut dome berukuran kecil.\nB. Tom pergi ke zoo.\nJawaban:
+Premis: Medannya sangat tenang di malam hari.\nApa akibat yang paling mungkin?\nA. Ketenangan terganggu oleh beberapa suara burung.\nB. Tiba-tiba hujan mulai jatuh.\nJawaban:
+Premis: Dia telah membuat satu gelas jus.\nApa penyebab yang paling mungkin?\nA. Lucy telah membeli banyak buah segar.\nB. Alice ingin merasakan kelembapan.\nJawaban:
+Premis: Handphone ini tidak awet.\nApa akibat yang paling mungkin?\nA. 它可以被诱引玉米田排斥。（注：此选项在原句中不存在合理对应，故保持英文以示原意未被翻译）\nB. Baterai sering gagal mengisi daya.\nJawaban:
+Premis: Dia telah menderita diabetes.\nApa penyebab yang paling mungkin?\nA. Dia terutama gemuk.\nB. Tom mengabaikan kebersihan pribadinya.\nJawaban:
+Premis: Tubuh membusuk secara perlahan.\nApa penyebab yang paling mungkin?\nA. Manifestasi klinis penyakit Wilson utamanya adalah diskinesia seperti getaran otot, kecepatan gerakan lambat, ketidakstabilan gait dan gejala mental seperti kelelahan, perubahan perilaku mental.\nB. Enzim-enzim bekerja pada tubuh korbang burung.\nJawaban:
+Premis: Judy mengalami tictak.\nApa akibat yang paling mungkin?\nA. Dia memiliki gerakan tidak sadar di tubuhnya.\nB. Dokter hewan menyatakan bahwa dia memiliki panleukopenia.\nJawaban:
+Premis: Gemstones adalah harta yang berharga.\nApa akibat yang paling mungkin?\nA. Mereka selalu berdampingan dengan istrinya dan tidak pernah meninggalkan mereka.\nB. Setiap orang merawat harta tersebut walaupun ada hal lain dalam kerajaan mineral.\nJawaban:
+Premis: Pasien diderahi kelemahan.\nApa penyebab yang paling mungkin?\nA. Konflik-konflik dijumpai banyak di laut.\nB. Pasien mengalami sindrom pasca-polio.\nJawaban:
+Premis: Mereka bisa hidup dengan baik di musim dingin.\nApa penyebab yang paling mungkin?\nA. Seals adalah mamalia.\nB. Mereka menggali ke subtanah.\nJawaban:
+Premis: Mary ingin memasak di dapur.\nApa akibat yang paling mungkin?\nA. Mary menemukan dapur di restoran.\nB. Dokter mengukur berat badan Mary.\nJawaban:
+Premis: Throat Sally sangat bengkak.\nApa akibat yang paling mungkin?\nA. Penglihatannya terluka.\nB. Sally tidak bisa membuat suara apa pun.\nJawaban:
+Premis: Dia terkejut dengan cara mereka yang mirip dengan hewan multicellular.\nApa penyebab yang paling mungkin?\nA. Tom telah bertemu dua plesiosaurus.\nB. Peneliti berharap Paramecium memiliki cara khusus untuk memakan makanan.\nJawaban:
+Premis: Sel-sel limfosit di sekitar pantat pasien terkena penyakit.\nApa akibat yang paling mungkin?\nA. Pasien mengalami konvulsif.\nB. Vaskulus di sekitarnya terpengaruh.\nJawaban:
+Premis: Dia menjaga banyak gnus.\nApa akibat yang paling mungkin?\nA. Gnus tersebut telah memakan rumput di halaman dia.\nB. Dia pergi dengan mereka bersama untuk mencari makanan.\nJawaban:
+Premis: Jantung Tom berdetak sangat lambat.\nApa akibat yang paling mungkin?\nA. Dokter memberitahu dia singkat setelah itu bahwa dia mengalami serangan jantung.\nB. Dokter memasang defibrillator untuknya.\nJawaban:
+Premis: Tom telah meletakkan botol air di dalam pendingin makanan.\nApa akibat yang paling mungkin?\nA. Dia mendapatkan botol es.\nB. Airnya tetap dingin.\nJawaban:
+Premis: Beban dibagi dengan luas drainase besar.\nApa penyebab yang paling mungkin?\nA. Banjir menoverwhelming banyak dikeramik.\nB. Ini sungai memiliki ketinggian lapangan tinggi.\nJawaban:
+Premis: Peneliti telah menemukan polimer dari gula.\nApa akibat yang paling mungkin?\nA. Peneliti mengatakan itu adalah glukogen.\nB. Peneliti mengatakan itu adalah oligosakarida.\nJawaban:
+Premis: Jessy berpikir apakah harus pergi untuk liburan.\nApa akibat yang paling mungkin?\nA. Dia menyerah demi konsekuensi yang drastis.\nB. Dia menyerah demi hasil lotere yang drastis.\nJawaban:
+Premis: Dia membawa kasus hukum terhadap perusahaan.\nApa penyebab yang paling mungkin?\nA. Jack dan bosnya memiliki masalah pensiun.\nB. Perusahaannya mengalami kegagalan karena itu.\nJawaban:
+Premis: Dia mendapatkan beberapa fitoestrogen yang terkonsentrasi.\nApa penyebab yang paling mungkin?\nA. Dia memilih buah labu.\nB. Dia memroses biji flax.\nJawaban:
+Premis: Bidang ini mendapatkan manfaat.\nApa penyebab yang paling mungkin?\nA. Kami menambahkan pupuk ke bidang ini.\nB. Banyak orang menganggap filosofi mengecewakan.\nJawaban:
+Premis: Mereka memakan kucuk setiap pagi.\nApa penyebab yang paling mungkin?\nA. Ada dua armadillo berwarna abu-abu.\nB. Ada beberapa gadis di sana.\nJawaban:
+Premis: Gadis ini mencari buku masakan untuk membantu dirinya.\nApa penyebab yang paling mungkin?\nA. Ikan octopus itu lapar.\nB. Gadis ini ingin mengetahui ciri-ciri detail dari hidangan ini.\nJawaban:
+Premis: Dia mengonsumsi nutrisi tambahan.\nApa penyebab yang paling mungkin?\nA. Tom makan brokoli untuk vitamin.\nB. Tom makan brokoli untuk meninggal.\nJawaban:
+Premis: Tom selalu merasakan detak jantung yang tidak teratur.\nApa akibat yang paling mungkin?\nA. Dia didiagnosis dengan palpasi.\nB. Dokter memberitahu dia bahwa dia memiliki palpasi.\nJawaban:
+Premis: Tahun ini hujan hampir setiap hari dan tanah sangat lembap.\nApa akibat yang paling mungkin?\nA. Air meresap ke dalam tanah dan tanah menjadi lembab.\nB. Muskmelons tidak tumbuh dengan baik.\nJawaban:
+Premis: Kondisi seriusnya membutuhkan perawatan medis segera.\nApa penyebab yang paling mungkin?\nA. Ayah saya memiliki hipertensi ringan sampai moderat.\nB. Jerry fainting dengan kejutan.\nJawaban:
+Premis: Sedikit orang yang dapat menghilangkan ciri-ciri manusia universal dalam pengalaman mereka.\nApa akibat yang paling mungkin?\nA. Sebagian besar orang terlihat memiliki ciri etnosentrisme.\nB. Dokter memberikan metamphetamine segera.\nJawaban:
+Premis: Dia membuat saya suatu gonggong.\nApa penyebab yang paling mungkin?\nA. Dia menyentuh tubuh orang lain tanpa persetujuan mereka.\nB. Ayah kandungnya menempelkan bagian-bagian keras dan kosong secara longgar.\nJawaban:
+Premis: Anak tersebut memakan gandum setiap hari.\nApa akibat yang paling mungkin?\nA. Dia sehat dulu.\nB. Dia sehat.\nJawaban:
+Premis: Pekerja pingsan karena makanan yang mengandung Terbium.\nApa akibat yang paling mungkin?\nA. Dia didiagnosis dalam keadaan toxic sedang.\nB. Dokter memberinya injeksi tenorin.\nJawaban:
+Premis: Pria itu bertanggung jawab atas penjualan.\nApa akibat yang paling mungkin?\nA. Dia merupakan bagian dari pasar.\nB. Berinteraksi dengan orang adalah bagian dari pekerjaannya.\nJawaban:
+Premis: Tom makan banyak pot bramble tahun ini.\nApa penyebab yang paling mungkin?\nA. Tom menanam benih-benih bramble last year.\nB. Serangga memakan tanaman Tom.\nJawaban:
+Premis: Mereka akhirnya membuat mental baru yang terbuat dari titanium.\nApa penyebab yang paling mungkin?\nA. Para ilmuwan sedang menguji jenis bahan baru untuk membuat kapal ruang angkasa.\nB. Pabrik perlu memperbaiki kualitas produksinya.\nJawaban:
+Premis: Air terbentuk.\nApa penyebab yang paling mungkin?\nA. Jack merusakkan peroksida hidrogen.\nB. Ion yang bercharge satu mendapatkan elektron.\nJawaban:
+Premis: Terdapat banyak pasien dengan keganasan pendek.\nApa akibat yang paling mungkin?\nA. Jumlah mikroorganisme patogen meningkat dengan cepat.\nB. Sebagian besar mereka memiliki achondroplasia.\nJawaban:
+Premis: It was almost destroyed.\nApa penyebab yang paling mungkin?\nA. Habitat alami digunakan secara berlebihan.\nB. Sebuah perjalanan menemukan sepotong klorit kuning.\nJawaban:
+Premis: Dia menemukan beberapa hepikas di lapangan.\nApa penyebab yang paling mungkin?\nA. Luna ingin mengambil foto beberapa bunga pada awal musim semi.\nB. Ibu mertua ingin menanam beberapa tanaman.\nJawaban:
+Premis: Tom menemukan bahwa cub hidup di area yang berbeda di zoo tergantung pada jeniskelamin mereka.\nApa penyebab yang paling mungkin?\nA. Tom berkunjung ke zoo.\nB. Tom telah mengamati kebiasaan hidup hewan secara teratur belakangan ini.\nJawaban:
+Premis: Saya berpendapat lotion lebih baik.\nApa penyebab yang paling mungkin?\nA. Saya pernah menggunakan salep.\nB. Saya ingin kehilangan berat badan dan tetap sehat pada waktu yang sama.\nJawaban:
+Premis: Tanah terpenuhi dengan ikan yang sudah busuk.\nApa akibat yang paling mungkin?\nA. Belut-belut di sana sering sakit.\nB. Udara di sana penuh dengan bau busuk dari ikan yang sudah busuk.\nJawaban:
+Premis: Dia membeli berbagai makanan yang mengandung protein dan sejenisnya.\nApa penyebab yang paling mungkin?\nA. Wanita itu berharap anjing poodlesnya mendapatkan nutrisi yang cukup.\nB. Ratu merasa lapar.\nJawaban:
+Premis: Dia dipilih sebagai pejabat di kotaannya.\nApa penyebab yang paling mungkin?\nA. Mike adalah seorang sheriff.\nB. Mike adalah seorang pekerja.\nJawaban:
+Premis: Dia bingung saat dihadapkan pada pilihan.\nApa akibat yang paling mungkin?\nA. Dia bingung dalam memilih karir yang akan diambil.\nB. Dia kemudian menderita neurosis.\nJawaban:
+Premis: Saya menemukan minatnya.\nApa penyebab yang paling mungkin?\nA. Saya memiliki burung kecil.\nB. Saya memiliki hobi.\nJawaban:
+Premis: Tom adalah seorang insinyur.\nApa akibat yang paling mungkin?\nA. Dia belajar tentang berbagai jenis struktur.\nB. Tom merancang berbagai jenis bangunan.\nJawaban:
+Premis: Ternyata itu adalah dinamika.\nApa penyebab yang paling mungkin?\nA. Roda Tommy membuat suara aneh.\nB. Tom mencari internet tentang sifat kekuatan suara alat musik.\nJawaban:
+Premis: Mereka mencapai puncak bukit itu.\nApa akibat yang paling mungkin?\nA. Mereka merasakan udara jauh lebih dingin dibandingkan dengan kaki bukit itu.\nB. Mereka telah membuat lubang di lereng yang curam yang dulu terumbu dengan tumbuhan tebal.\nJawaban:
+Premis: Remaja laki-laki ini belum pernah memiliki hubungan romantik.\nApa akibat yang paling mungkin?\nA. Onani terjadi dengan frekuensi yang tinggi.\nB. Onani tidak pernah terjadi.\nJawaban:
+Premis: Tom memilih kiwi untuk mengumpulkan fruktosa.\nApa penyebab yang paling mungkin?\nA. Tom ingin mengumpulkan fruktosa.\nB. Makanan digunakan untuk menyembuhkan penyakit saya.\nJawaban:
+Premis: Proses penyelesaian masalah seluruhnya salah.\nApa penyebab yang paling mungkin?\nA. Tom telah menyusun persamaan yang salah.\nB. Tutor tersebut gagal merangkum topik utama.\nJawaban:
+Premis: Para ilmuwan menginjeksikan nitrit ke dalam darah anak-anak.\nApa akibat yang paling mungkin?\nA. Feses tidak dapat dikeluarkan melalui anus.\nB. Para ilmuwan menemukan bahwa kapasitas membawa oksigen darah anak-anak menurun.\nJawaban:
+Premis: Kami melihat sesuatu terjun dari udara.\nApa akibat yang paling mungkin?\nA. Guru menjelaskan bahwa itu adalah burung booby mencari makanannya.\nB. Tidak ada yang menjelaskan fenomena itu kepada kita.\nJawaban:
+Premis: Dia menemukan ada sesuatu yang sama dengan aktinida.\nApa penyebab yang paling mungkin?\nA. Lucy baru-baru ini melakukan penelitian tentang berkelium.\nB. Mary salah menggunakan clozapine.\nJawaban:
+Premis: Waitress kepadanya.\nApa penyebab yang paling mungkin?\nA. Tamu meminta piring baru.\nB. Tom farted di kelas.\nJawaban:
+Premis: Usia bertambah membuat tim mendapatkan pengetahuan lebih banyak.\nApa akibat yang paling mungkin?\nA. Dia menjadi lebih hebat dibandingkan sebelumnya.\nB. Usahanya menjadi lebih mudah untuknya.\nJawaban:
+Premis: Guru kita menginformasikan bahwa itu adalah kimiluminansi.\nApa penyebab yang paling mungkin?\nA. Kami ingin mengetahui agen penyakit menular yang terkecil.\nB. Kami penasaran dengan cahaya yang terhasil setelah reaksi kimia.\nJawaban:
+Premis: Tom telah menaruh bismut ke dalam tabung kimia.\nApa akibat yang paling mungkin?\nA. Ada lebih banyak karbon dioksida di udara.\nB. Dia menemukan bahwa bismut teroksidasi setelah beberapa jam.\nJawaban:
+Premis: Kemudian orang menggunakan kepuasan pisang untuk menurunkan berat badan.\nApa penyebab yang paling mungkin?\nA. Flavonoid baik untuk kesehatan kita.\nB. Starch résistant sulit dicerna.\nJawaban:
+Premis: Terjadi kecelakaan.\nApa akibat yang paling mungkin?\nA. Dia memiliki ciri-ciri yang mudah terkena penyakit jiwa.\nB. Seorang jurnalis menjelaskannya kepada penonton.\nJawaban:
+Premis: Saya telah melihat tiga tahap dalam siklus hidup kutu.\nApa akibat yang paling mungkin?\nA. Kutu memiliki setidaknya tiga tahap.\nB. Mereka menyelesaikan siklus hidup mereka dalam dua tahun.\nJawaban:
+Premis: Dia menyerangnya tanpa bukti.\nApa akibat yang paling mungkin?\nA. Midwifes datang kepadanya.\nB. Dia adalah orang yang sangat gila.\nJawaban:
+Premis: Dia memiliki saham dalam bagian kepemilikan fractional di perusahaan ini sekarang.\nApa penyebab yang paling mungkin?\nA. Dia suka wanita di perusahaan ini.\nB. Dia membeli beberapa saham.\nJawaban:
+Premis: Lucy merawat bayinya dengan baik.\nApa akibat yang paling mungkin?\nA. Dia perlahan-lahan dibangunkan untuk kehidupan.\nB. Bayinya sehat ketika dewasa.\nJawaban:
+Premis: Dokter menemukan bahwa jumlah pigment merah hemoglobin terlalu tinggi.\nApa penyebab yang paling mungkin?\nA. Pasien menunjukkan gejala natriuresis.\nB. Tom mengambil beberapa darah untuk memeriksa tubuhnya.\nJawaban:
+Premis: Putih menyarankan bahwa peneliti harus mempelajari ciri chromosom pada vole.\nApa penyebab yang paling mungkin?\nA. Laboratorium diminta untuk mempelajari ciri chromosom khusus.\nB. Lab ingin mempelajari elefant.\nJawaban:
+Premis: Sekolah menyediakan makanan yang sehat untuk siswa.\nApa akibat yang paling mungkin?\nA. Siswa dapat memakan banyak buah dan sayuran setiap hari.\nB. Mereka menanam banyak padi setiap tahunnya.\nJawaban:
+Premis: Mereka menemukan banyak makanan.\nApa penyebab yang paling mungkin?\nA. Mereka adalah pendatang pertama di pulau ini.\nB. Penembak berhasil menangkap banyak kelinci hutan.\nJawaban:
+Premis: Ekor putih sangat menonjol.\nApa akibat yang paling mungkin?\nA. Yang paling terkesan adalah kepalanya yang indah tetapi berbeda.\nB. Cottontails selalu tertangkap oleh burung elang.\nJawaban:
+Premis: Saya adalah seorang penari yang baik.\nApa akibat yang paling mungkin?\nA. Saya memiliki momen rotasi.\nB. Saya merasa enerjik.\nJawaban:
+Premis: Tom memiliki rasa sakit perut yang berkepanjangan.\nApa penyebab yang paling mungkin?\nA. Buah pisang yang dibeli Tom sedikit tidak masak.\nB. Tom mengonsumsi sejumlah besar larut pencernaan oleh kesalahan.\nJawaban:
+Premis: Biosfer tidak seimbang.\nApa akibat yang paling mungkin?\nA. Lingkungan menjadi lebih baik.\nB. Jumlah beruang penyetan menjadi meluap-luap.\nJawaban:
+Premis: Dia ingin beristirahat.\nApa penyebab yang paling mungkin?\nA. Jack makan diet sehat dan seimbang.\nB. Dia berlari.\nJawaban:
+Premis: Dia kacau lagi serius.\nApa penyebab yang paling mungkin?\nA. Dia seolah-olah kacau beberapa detik yang lalu.\nB. Dia melihat makhluk dengan mulut besar dan kepala kecil.\nJawaban:
+Premis: Lain negara menghormati posisinya.\nApa penyebab yang paling mungkin?\nA. Roma adalah imperium yang hebat.\nB. Pada 16 Desember 1902, letusan gunung berapi Mount Peree di Karibia mengguncang dunia.\nJawaban:
+Premis: Sel-sel Tom mulai bereproduksi secara tidak terkontrol.\nApa penyebab yang paling mungkin?\nA. Tekanan darah ayah Tom turun karena pemberian transfusi darah yang berlebihan.\nB. Tom memiliki kanker paru-paru.\nJawaban:
+Premis: Kakek Mario membunuh seorang perempuan lama.\nApa akibat yang paling mungkin?\nA. Dia meninggal tidak lama setelah itu.\nB. Dia ditakdirkan untuk dipenjarakan.\nJawaban:
+Premis: Penelitiannya secara utama dilakukan pada eukaryota.\nApa penyebab yang paling mungkin?\nA. Banyak orang yang diuji kandungan air seninya.\nB. Mereka perlu mempelajari daerah enhancer yang mengontrol ekspresi gen dalam organisme.\nJawaban:
+Premis: Tom melihat ombak mewakili jurang.\nApa penyebab yang paling mungkin?\nA. Sungai di depan rumah Tom terpolusi.\nB. Guru menggambar gambaran tentang tanah setempat.\nJawaban:
+Premis: Saya mulai meningkatkan keterulungannya.\nApa penyebab yang paling mungkin?\nA. Mentor saya menekankan keandalan pengukuran saya.\nB. Saya mencari suatu jenis serat melalui strukturnya.\nJawaban:
+Premis: Mereka menghasilkan lebih banyak generasi.\nApa penyebab yang paling mungkin?\nA. Peneliti ingin mendapatkan granulosit.\nB. Terdapat lebih banyak dugong berkumpul di laut.\nJawaban:
+Premis: Dia hanya mengamati reaksi glikolisis.\nApa penyebab yang paling mungkin?\nA. Tom menghilangkan semua mitokondria dalam sel dan mengamati reaksi yang terjadi di dalamnya.\nB. Bob mengukur jumlah a pada awal reaksi.\nJawaban:
+Premis: Jack melihat foto keluarga.\nApa akibat yang paling mungkin?\nA. Jack menemukan bahwa setiap orang dalam foto memiliki bentuk hidung yang berbeda.\nB. Jack menemukan bahwa setiap orang dalam foto memiliki bentuk mulut yang berbeda.\nJawaban:
+Premis: Tom meletakkan daging beku di air.\nApa akibat yang paling mungkin?\nA. Setelah satu jam, daging beku itu hilang.\nB. Setelah satu jam, daging beku itu meleleh.\nJawaban:
+Premis: Dia biasanya melakukan perjalanan.\nApa penyebab yang paling mungkin?\nA. Dia adalah seorang naturalis.\nB. Tom selalu mengalami konvulsif.\nJawaban:
+Premis: Ekonomi tertarik oleh anomali ini.\nApa penyebab yang paling mungkin?\nA. Terjadi masalah korosi serius pada lithosfer.\nB. Negara ini dalam resesi memiliki kota dengan kemakmuran.\nJawaban:
+Premis: Peneliti telah mengumpulkan banyak invertebrata.\nApa akibat yang paling mungkin?\nA. Peneliti telah melakukan banyak penelitian.\nB. Peneliti dapat dengan jelas mengklasifikasikan mereka.\nJawaban:
+Premis: Setiap orang berpendapat bahwa Jack adalah orang yang egois.\nApa penyebab yang paling mungkin?\nA. Jack selalu merisih diri dari orang lain dan mencoba segala cara untuk mendapatkan apa yang diinginkannya tanpa memperhatikan kebutuhan dan perasaan orang lain.\nB. Jack tidak menyikat gigi setiap hari.\nJawaban:
+Premis: Cuaca sangat buruk pada musim semi ini.\nApa akibat yang paling mungkin?\nA. Bunga-bunga layu.\nB. Jumlah pucuk sangat berkurang.\nJawaban:
+Premis: Ini tidak tergantikan dalam pasta gigi.\nApa penyebab yang paling mungkin?\nA. Karbonat kalsium adalah abrasif yang lembut.\nB. Ticks sensitif dengan aroma hewan berdarah panas.\nJawaban:
+Premis: John ingin melihat daftar artikel.\nApa akibat yang paling mungkin?\nA. Dia melihat bibliografi dan menemukan catatan di dalamnya.\nB. Dokter memberi dia beberapa trombin.\nJawaban:
+Premis: HATs terlibat dalam aktivasi transkripsi.\nApa akibat yang paling mungkin?\nA. HATs adalah molekul yang panas.\nB. Orang paraplegia lebih kurang sensitif terhadap stimulasi saraf.\nJawaban:
+Premis: Mereka melahirkan Billy.\nApa penyebab yang paling mungkin?\nA. Tom imigrasi ke Afrika dan bertemu Mary.\nB. Tom adalah mahasiswa fokus pada fisika.\nJawaban:
+Premis: Mereka berhenti di pohon di depan.\nApa penyebab yang paling mungkin?\nA. Penduduk desa memulai dari pohon buah yang paling mudah ditanam.\nB. Kumpulan burung cecak terbang jauh-jauh.\nJawaban:
+Premis: Tom alergi dengan daging sapi.\nApa akibat yang paling mungkin?\nA. Tom tidak pernah makan burger.\nB. Pemeriksaan menunjukkan bahwa dia telah mengonsumsi jumlah besar efeedin.\nJawaban:
+Premis: Petani menanam celery.\nApa akibat yang paling mungkin?\nA. Dia mendapatkan karote tahun ini.\nB. Dia mengenal sifatnya dengan sangat baik.\nJawaban:
+Premis: Interface sistem biologis tersebut被系统化翻译后变为：\nApa penyebab yang paling mungkin?\nA. Rencana destruksi alien dimulai dari struktur esensial dalam sistem biologis.\nB. Nutrisi sebagian dalam tubuh pasien terdegradasi.\nJawaban:
+Premis: Tom tidak dapat mempelajari pembagian.\nApa akibat yang paling mungkin?\nA. Dia bisa merancang salah satu dari minimalis.\nB. Ibu dia marah karena dia tidak mempelajari operasi aritmatika dasar.\nJawaban:
+Premis: Gigi tetrapa telah dihapus.\nApa akibat yang paling mungkin?\nA. Tetrapa bisa mendapatkan nutrisi.\nB. Tetrapa tidak bisa makan sekarang.\nJawaban:
+Premis: Dia sangat lelah sehingga tertidur.\nApa penyebab yang paling mungkin?\nA. Tom menghabiskan pagi hari mencuci pakaian dan membersihkan kamar.\nB. Tom berdate dengan pacarnya pada pukul lima sore di hari Natal.\nJawaban:
+Premis: Genggamannya menggaruk jari彼女。\nApa penyebab yang paling mungkin?\nA. Melinda pergi ke danau untuk menangkap koral。\nB. Dokter akan memberikan cairan kepadanya。\nJawaban:
+Premis: Tom telah makan sesuatu yang mengandung karbohidrat.\nApa akibat yang paling mungkin?\nA. Dia mengalami masalah pencernaan.\nB. Gula darahnya naik.\nJawaban:
+Premis: Ceritanya yang sebenar menjadi adaptasi layar lebar.\nApa akibat yang paling mungkin?\nA. Lebih banyak orang di Amerika dibangunkan olehnya.\nB. Banyak penonton berkomentar tentang efek dramatiknya.\nJawaban:
+Premis: Air digunakan sebagai sumber listrik baru.\nApa akibat yang paling mungkin?\nA. Kesulitan dari tenaga listrik air mulai terlihat.\nB. Malam hari pada musim gugur menjadi lebih panjang.\nJawaban:
+Premis: Jerboas lapar.\nApa akibat yang paling mungkin?\nA. Mereka memiliki akses yang berbeda ke makanan.\nB. Mereka mengambil makanan dengan kaki mereka.\nJawaban:
+Premis: Dia didiagnosis dengan pancreatitis di rumah sakit.\nApa penyebab yang paling mungkin?\nA. Tom terinfeksi dengan virus necrosis pankreas.\nB. Pankreas Tim bengkak.\nJawaban:
+Premis: Dia adalah teknisi.\nApa akibat yang paling mungkin?\nA. Dia perlu menyerap air sesekali.\nB. Pengetahuannya sangat mendalam.\nJawaban:
+Premis: Petani tahu cara memolifikasi bunga.\nApa penyebab yang paling mungkin?\nA. Perkebunan ini menanam banyak bunga.\nB. Tom perlu memolifikasi tanamannya.\nJawaban:
+Premis: Mereka menemukan bahwa payudara tumbuh pada waktu ini.\nApa penyebab yang paling mungkin?\nA. Peneliti fokus pada perawatan payudara selama beberapa minggu pertama.\nB. Ibu elephant betina di zoo mulai tua.\nJawaban:
+Premis: Kera di zoo itu sendiri tahun lalu.\nApa akibat yang paling mungkin?\nA. Zoo itu mempekerjakan banyak penjaga untuk menyelesaikan tugasnya.\nB. Tahun ini ia memiliki seekor kera bayi di punggungnya.\nJawaban:
+Premis: Mereka menemukan bahwa hewan-hewan tersebut hidup dalam habitat mereka sejak lama dan tidak pernah pindah.\nApa penyebab yang paling mungkin?\nA. Mereka mengamati kebiasaan hidup banyak hewan liar di Afrika Selatan.\nB. Kambing mudah melarikan diri.\nJawaban:
+Premis: Amy memiliki berat yang tidak biasa ringan dibandingkan dengan orang lain.\nApa penyebab yang paling mungkin?\nA. Berat A lebih ringan daripada berat B.\nB. Amy lahir dengan kekurangan pada kaki.\nJawaban:
+Premis: Lila terinfeksi amebiasis.\nApa akibat yang paling mungkin?\nA. Kulitnya dapat tetap utuh.\nB. Dia merasa tidak nyaman.\nJawaban:
+Premis: Banyak es yang mencair.\nApa penyebab yang paling mungkin?\nA. Glaciers besar runtuh dan terburu-buru ke bawah tanah.\nB. Lingkungan sekitar es berubah.\nJawaban:
+Premis: Banyak di antaranya menggunakan sungai sebagai habitat mereka.\nApa penyebab yang paling mungkin?\nA. Varnish menggunakan refraksi cahaya.\nB. Banyak hewan mencari habitat yang sesuai.\nJawaban:
+Premis: Angin di sini sangat kuat.\nApa akibat yang paling mungkin?\nA. Pertanian dan rumah akan hancur karena angin dan hujan lebat.\nB. Angin mengangkut banyak partikel silt.\nJawaban:
+Premis: Tanah yang terperangkap es secara permanen digunakan untuk melindunginya.\nApa penyebab yang paling mungkin?\nA. Hanya Permaforst yang dapat mempertahankan biji-bijian khusus tersebut.\nB. Petani meletakkan kacang kacang merah tersebut di bawah kondisi kekeringan.\nJawaban:
+Premis: Penari-penari kuda ini sangat lapar.\nApa akibat yang paling mungkin?\nA. Mereka menikmati makanan enak dengan sangatlah.\nB. Mereka mempersiapkan sesuatu untuk melindungi lutut mereka.\nJawaban:
+Premis: Luke adalah bioawan.\nApa akibat yang paling mungkin?\nA. Beberapa selnya mati lebih cepat dibanding non-vegatarian mereka.\nB. Dia spesialis dalam bidang biokimia yang menarik minatnya.\nJawaban:
+Premis: Tom menaruh tali pengaman pada kulit pohon.\nApa akibat yang paling mungkin?\nA. Kulit pohon itu rusak.\nB. Dia perlu membuka kliknya sebelum menggunakan tali tersebut.\nJawaban:
+Premis: Satu orang tinggal di atmosfer dan orang lain tinggal di luar atmosfer.\nApa akibat yang paling mungkin?\nA. Orang yang tinggal di atmosfer masih hidup dan orang yang tinggal di luar atmosfer sudah mati.\nB. Dia telah batuk dan menghawatirkan.\nJawaban:
+Premis: Tubuh tidak dapat diidentifikasi.\nApa penyebab yang paling mungkin?\nA. Tubuh terpapar oleh serangga.\nB. Polisi menemukan tubuh yang telah dibakar.\nJawaban:
+Premis: Erosi tanah serius di daerah ini.\nApa akibat yang paling mungkin?\nA. Pemerintah memerintahkan penanaman hutan penghalang angin.\nB. Perlu perhatian internasional.\nJawaban:
+Premis: Dia menemukan vertebra dalam strukturnya.\nApa penyebab yang paling mungkin?\nA. Jessy melihat gambar punggung tulang belakang.\nB. Dokter melihat bagian meninge pada pasien dari hasil CT sebagai penutup otak.\nJawaban:
+Premis: Malam sudah mendalam.\nApa akibat yang paling mungkin?\nA. Lalat buaya keluar untuk makanan.\nB. Hari ini mereka dimakan oleh ikan teri kuning.\nJawaban:
+Premis: John meng Explore variasi ketinggian rawa.\nApa akibat yang paling mungkin?\nA. Dia menemukan relief topografi yang sangat rendah.\nB. Dia menemukan relief topografi yang sangat tinggi.\nJawaban:
+Premis: Dia terkena penyakit.\nApa penyebab yang paling mungkin?\nA. Dia telah overkerja dirinya.\nB. Tom akan bertemu dengan pacarnya yang disayanginya.\nJawaban:
+Premis: Mahasiswa ingin mengetahui yang paling jarang terdapat alamiah dari unsur langka yang terjadi secara alami.\nApa akibat yang paling mungkin?\nA. Penelitian mereka menyimpulkan bahwa prometium adalah.\nB. Guru mengatakan kepada mereka itu adalah thulium.\nJawaban:
+Premis: Dokter mengambil beberapa serat saraf dari dinding folikel yang mengelilingi oosit.\nApa penyebab yang paling mungkin?\nA. Peneliti ingin mengambil beberapa barium.\nB. Prosedur perawatan memerlukan Serotonin.\nJawaban:
+Premis: Ibunya membeli mixer listrik.\nApa penyebab yang paling mungkin?\nA. Tom suka minum smoothie.\nB. Tom ingin membuat beberapa cider.\nJawaban:
+Premis: Saya menasihati putri saya untuk menjadi ahli internal.\nApa penyebab yang paling mungkin?\nA. Saya berpendapat bahwa spesialis dalam internal medicine sangat membantu.\nB. Saya adalah evolusi.\nJawaban:
+Premis: Hasil penelitian menunjukkan bahwa itu adalah sel-interstisial.\nApa penyebab yang paling mungkin?\nA. Peneliti sedang mengamati antara which sel-sel mana sperma diproduksi.\nB. DAG gagal pada sel-R.\nJawaban:
+Premis: Dia membuka pintu pendingin.\nApa penyebab yang paling mungkin?\nA. Jack ingin makan jamur.\nB. Si kaya ingin melihat sampel.\nJawaban:
+Premis: Wisatawan berjalan kaki selama 3 jam.\nApa akibat yang paling mungkin?\nA. Mereka melakukan observasi di gunung saat siang hari.\nB. Mereka berkeringat banyak.\nJawaban:
+Premis: Dia menjadi vegetarian.\nApa penyebab yang paling mungkin?\nA. Dia adalah seorang wanita berani.\nB. Ibu itu ingin hidup lebih lama dan sehat.\nJawaban:
+Premis: Tubuhnya memiliki penyerapan yang buruk dari asam amino.\nApa akibat yang paling mungkin?\nA. Nutrisionis menasihatinya untuk lebih banyak makan kacang-kacangan.\nB. Dokter merekomendasikan agar dia mengonsumsi suplemen arginin untuk membantu depolarisasi sel usus untuk memperbaiki.\nJawaban:
+Premis: Dokter telah meresepkan lebih banyak delavirdine untuk dia.\nApa penyebab yang paling mungkin?\nA. Dokter menyarankan Jack untuk memakan lebih banyak makanan yang kaya akan asam amino.\nB. Obat yang diresepkan sebelumnya oleh dokter tidak berhasil pada Tom.\nJawaban:
+Premis: Vipernya adalah yang paling beracun.\nApa penyebab yang paling mungkin?\nA. Ada banyak hewan berbeda di hutan.\nB. Spesies ini memiliki mutasi signifikan pada abad terakhir.\nJawaban:
+Premis: Sistem imunnya runtuh.\nApa penyebab yang paling mungkin?\nA. Dokter Ruhr menemukan bahwa sel darah putih Ruhr meningkat, dan ada leukositosis.\nB. John terinfeksi virus HIV.\nJawaban:
+Premis: Wajah semua penonton yang menonton horor diproyeksikan ke layar.\nApa akibat yang paling mungkin?\nA. Mereka melihat wajah mereka sendiri yang merah.\nB. Mereka melihat wajah mereka sendiri yang pucat.\nJawaban:
+Premis: Dia merasakan kesedihan.\nApa penyebab yang paling mungkin?\nA. Tom melihat objek yang mewakili kesulitan para pendiri.\nB. Dia memiliki rasa empati yang kuat.\nJawaban:
+Premis: Tanaman tumbuh dengan baik.\nApa penyebab yang paling mungkin?\nA. Ada pinus di halaman.\nB. Petani menggunakan banyak pupuk untuk menanam tanaman.\nJawaban:
+Premis: Jackson ingin mempelajari hewan-hewan keluarga manusia.\nApa akibat yang paling mungkin?\nA. Profesor Jackson merekomendasikan dia untuk mempelajari homonid.\nB. Dia mengumpulkan beberapa uang untuk biayanya.\nJawaban:
+Premis: Restoran Tom tidak berhasil.\nApa akibat yang paling mungkin?\nA. Manajernya membantu dia menyelesaikannya.\nB. Dia berkeliling jalan untuk mendapatkan pelanggan.\nJawaban:
+Premis: Mereka memiliki penampilan.\nApa penyebab yang paling mungkin?\nA. Mereka semua adalah daging.\nB. Sel ini memiliki necrosis.\nJawaban:
+Premis: Peneliti melakukan nitrifikasi.\nApa penyebab yang paling mungkin?\nA. Peneliti menambahkan jenis asam amino ini ke dalam air.\nB. Peneliti ingin mengoksida amonia menjadi nitrat.\nJawaban:
+Premis: Setiap hari ada beberapa jamur yang menyerang tubuh kita.\nApa akibat yang paling mungkin?\nA. Kita mendapatkan manfaat dari produsen untuk kualitas hidup yang buruk.\nB. Sistem imun melindungi tubuh kita dari penyakit.\nJawaban:
+Premis: Dia terinfeksi virus.\nApa penyebab yang paling mungkin?\nA. Serangga berkontak dengan luka pada kulitnya.\nB. Pasien telah diberi vaksin dalam obat.\nJawaban:
+Premis: Sembilan di antaranya biasanya memiliki delusi dan yang lainnya kadang-kadang memiliki delusi.\nApa penyebab yang paling mungkin?\nA. Polisi membutuhkan anjing pengejar dengan mata tajam.\nB. Ada sepuluh orang di rumah sakit yang menderita schizophrenia.\nJawaban:
+Premis: Ia mulai tumbuh gigi gergaji.\nApa penyebab yang paling mungkin?\nA. Elefantus betina di zoo sudah tua.\nB. Ibu elefantus di zoo melahirkan.\nJawaban:
+Premis: Gerakan yang dilakukan menyebabkan dehiscensnya.\nApa akibat yang paling mungkin?\nA. Luka yang sebelumnya terhubung terpisah.\nB. Ada perubahan pada penglihatannya.\nJawaban:
+Premis: Prey mereka dapat melarikan diri dari bencana pada saat ini.\nApa penyebab yang paling mungkin?\nA. Beberapa hewan beristirahat di musim dingin.\nB. Loggerheads banyak di laut.\nJawaban:
+Premis: Sekarang kita adalah wisatawan.\nApa akibat yang paling mungkin?\nA. Kami memulai perjalanan kami.\nB. Keberhasilan mereproduksi bunga impian dia dipengaruhi.\nJawaban:
+Premis: Amatir tersebut mengamati bentuk bulan melalui gambar dari satelit.\nApa akibat yang paling mungkin?\nA. Bentuknya berada dalam rentang yang sangat tidak reguler hingga bola.\nB. Suatu jenis Emulsi diproduksi.\nJawaban:
+Premis: Bapanya memberitahu dia itu hanya manifestasi dari aktivitas vulkanik.\nApa penyebab yang paling mungkin?\nA. Warga desa takut akan geiser.\nB. John terkejut dengan bentuk aneh dari makhluk tersebut.\nJawaban:
+Premis: Orang tua lebih tradisional daripada anak-anak.\nApa akibat yang paling mungkin?\nA. Ibu laki-laki itu membeli bayam untuk putranya.\nB. Orang tua memiliki gaya yang berbeda dari anak-anak.\nJawaban:
+Premis: Dia mencairkan一些冰块。为了保持因果关系准确，这里翻译为：其冰块。\nApa penyebab yang paling mungkin?\nA. Tom lupa membawa air untuk melakukan eksperimen.\nB. Tom ingin membuat jus anggur.\nJawaban:
+Premis: Peneliti telah mendeteksi zat-zat beracun.\nApa penyebab yang paling mungkin?\nA. Ahli kimia memeriksa zat-zat kimia yang terdapat dalam marihuana.\nB. Peneliti melakukan tes pada ekskrement tentara.\nJawaban:
+Premis: Bapak Jackson akan membangun sebuah rumah.\nApa akibat yang paling mungkin?\nA. Dia membeli banyak kayu.\nB. Kakek Jackson membawa mesin-mesin.\nJawaban:
+Premis: Tom dan Lucy bercerai.\nApa akibat yang paling mungkin?\nA. Terjadi resonansi.\nB. Anak-anak diadilan untuk diadopsi oleh ibu mereka.\nJawaban:
+Premis: Mereka membentuk ekosistem yang sehat.\nApa penyebab yang paling mungkin?\nA. Kelp memiliki kemampuan adaptasi yang kuat.\nB. Semua makhluk alam berada dalam keseimbangan.\nJawaban:
+Premis: Mereka hidup di wilayah-wilayah hutan.\nApa penyebab yang paling mungkin?\nA. Jenis hewan ini umumnya memburu Scavengers.\nB. Orang-orang tersebut adalah pendaki.\nJawaban:
+Premis: Ikan harimau其实这个句子已经是中文了，不是英文。如果你想要将其翻译成印尼语，可以参考以下翻译：\nApa akibat yang paling mungkin?\nA. Harimau tersebut ingin memakaninya.\nB. Harimau tersebut tidak bisa melihatnya jelas.\nJawaban:
+Premis: Linda baik dalam mengetik.\nApa akibat yang paling mungkin?\nA. Dia direkrut oleh perusahaan kuat untuk potensinya membuat keuntungan.\nB. Dia tidak dapat menemukan pekerjaan.\nJawaban:
+Premis: Dia makan brokoli.\nApa penyebab yang paling mungkin?\nA. Mikifibril memiliki jumlah myofilamen yang berbeda.\nB. John ingin menyerap nutrisi tambahan.\nJawaban:
+Premis: Karyawan diperintahkan untuk melindungi tanah topografi dari erosi angin.\nApa akibat yang paling mungkin?\nA. Mereka menanam barisan pohon sebagai barisan hiasan penghalang angin.\nB. Mereka membangun sebuah bendungan.\nJawaban:
+Premis: Komandan Cina itu berkata bahwa terima kasih pada strategi yang tepat,\nApa penyebab yang paling mungkin?\nA. dia makan seluruh buah pepaya.\nB. pasukan Cina menunjukkan kapasitas super dalam perang dan memperoleh kemenangan besar.\nJawaban:
+Premis: Tom suka geologi dan biologi.\nApa akibat yang paling mungkin?\nA. Dia menikmati seni sains mendeskripsikan kehidupan yang masih hidup.\nB. Dia memilih untuk studi paleontologi.\nJawaban:
+Premis: Tentara itu berpikir bagaimana membunuh naga.\nApa akibat yang paling mungkin?\nA. Dia menyingkirkan penggunaan racun.\nB. Dia menyingkirkan penggunaan dinamit.\nJawaban:
+Premis: Kekinianan semuanya di kebunnya dimakan oleh mereka.\nApa akibat yang paling mungkin?\nA. Tom mungkin memiliki salmonellosis.\nB. Semua bibit tanaman di kebunnya terinfeksi oleh mereka.\nJawaban:
+Premis: Sebagian besar bonsai baru memulai siklus pertumbuhannya.\nApa penyebab yang paling mungkin?\nA. Saat musim dingin tiba, pohon-pohon mulai mengecil.\nB. Musim semi datang.\nJawaban:
+Premis: Eric mengatakan bangunan ini memiliki penampilan megah.\nApa penyebab yang paling mungkin?\nA. Eric cermat memeriksa sifat-sifat bangunan ini.\nB. Jumlah basofil pada gadis miskin ini berada di luar batas normalitas.\nJawaban:
+Premis: Hasil yang dilaporkan terutama berkaitan dengan tahap-tahap anak-anak.\nApa penyebab yang paling mungkin?\nA. Susan menemukan banyak peserta untuk penelitiannya.\nB. Penelitian tentang munculnya Roseola telah dilakukan.\nJawaban:
+Premis: Hasilnya menunjukkan berbagai gejala dari insomnia hingga kematian pada mereka.\nApa penyebab yang paling mungkin?\nA. Subjek diberi steroïd.\nB. Biolog mendatangi Iceland.\nJawaban:
+Premis: Ini menunjukkan bahwa dia memiliki kemampuan kesejahteraan yang kuat.\nApa penyebab yang paling mungkin?\nA. Fetus memiliki kemampuan kesejahteraan yang kuat untuk bertahan hidup secara mandiri dari tubuh wanita.\nB. Dokter hewan telah injeksi beberapa oksitosin ke dalam tubuh anjing.\nJawaban:
+Premis: Penumpang menemukan pinus dengan tinggi yang sama.\nApa penyebab yang paling mungkin?\nA. Mario dan Mary memiliki argumen yang sepenuhnya berlawanan tentang masalah yang sama.\nB. Helikopter melewati hutan pinus.\nJawaban:
+Premis: Ayah saya didiagnosis menderita aterosklerosis.\nApa akibat yang paling mungkin?\nA. Dia pergi ke rumah sakit untuk mengobati tulang belakang.\nB. Kita tahu itu sudah mulai berkembang beberapa tahun lalu.\nJawaban:
+Premis: Petani mengangkat melon yang sudah matang.\nApa penyebab yang paling mungkin?\nA. Tendril terdekat dengan airmelon berubah menjadi coklat.\nB. Petani ingin membeli beberapa strychnine.\nJawaban:
+Premis: Dia menyanyikan melalui mikrofon.\nApa akibat yang paling mungkin?\nA. Gelombang suara diubah menjadi hambatan listrik.\nB. Gelombang suara diubah menjadi tegangan listrik.\nJawaban:
+Premis: Jack makan tin yang sudah lewat tanggal kedaluwarsa dan masuk coma.\nApa akibat yang paling mungkin?\nA. Dia mati akibat konsumsi cyanida.\nB. Dia didiagnosis mengidap botulisme.\nJawaban:
+Premis: Dia memutuskan untuk menonton film tersebut sampai akhir.\nApa penyebab yang paling mungkin?\nA. Lucy tidak tahu mengapa gadis itu dibunuh dalam trailer.\nB. Lucy telah menunggu Tom selama waktu yang lama.\nJawaban:
+Premis: Lelaki tua itu meninggal.\nApa akibat yang paling mungkin?\nA. Seluruh hidupnya berakhir.\nB. Dia meninggal akibat kanker paru-paru.\nJawaban:
+Premis: Kucing itu mencoba mencari bahan yang paling lembut.\nApa akibat yang paling mungkin?\nA. Mereka makan bahan-bahan yang mereka temukan.\nB. Mereka membangun sarang dengan bahan-bahan yang mereka temukan.\nJawaban:
+Premis: Susan dituduh melakukan plagiat.\nApa penyebab yang paling mungkin?\nA. Susan menggunakan properti intelektual John tanpa izin.\nB. Tom hanya mengikuti satu kontes.\nJawaban:
+Premis: 那些陡峭的山坡被植被覆盖。\nApa akibat yang paling mungkin?\nA. Gempa bumi dan banjir selalu terjadi.\nB. Anda bisa melihat banyak burung muskrat menggali di sana.\nJawaban:
+Premis: Tingkat air sungai naik tajam pada musim semi.\nApa penyebab yang paling mungkin?\nA. Sungai di depan rumah Tom hampir padam pada musim dingin ketika curah hujan sedikit.\nB. Saat ini sudah awal musim semi.\nJawaban:
+Premis: Ikan hiu itu terbakar matahari secara parah.\nApa penyebab yang paling mungkin?\nA. Kudzu itu terpapar pada cahaya matahari.\nB. Ikan hiu itu dikunci dalam penjara di bawah sinar matahari.\nJawaban:
+Premis: Dia banyak mengetahui tentang Ceres.\nApa penyebab yang paling mungkin?\nA. Dia mempelajari objek terbesar di tata surya asteroid.\nB. Ayah saya pernah menjadi frater.\nJawaban:
+Premis: Karyawan pabrik ini pergi ke hemisfera selatan untuk mencari bahan yang lebih gelap.\nApa penyebab yang paling mungkin?\nA. Pabrik mempekerjakan karyawan untuk mengekstrak terpine dari pohon pinus.\nB. Pabrik ingin menambang olivin.\nJawaban:
+Premis: Dia menyerap enzim enteroisin.\nApa akibat yang paling mungkin?\nA. Dia menyerap protein sekitar dua kali lipat dari grass.\nB. Enzim-enzim lain di tubuhnya aktif.\nJawaban:
+Premis: Susu rasa asam.\nApa penyebab yang paling mungkin?\nA. Bakteri dalam susu telah berubah.\nB. Tom pasteurkan susu asam.\nJawaban:
+Premis: Sebentar lagi, dia meninggal karena penyakit hati yang semakin parah.\nApa penyebab yang paling mungkin?\nA. John memiliki asma.\nB. Meski menderita sirosis, Bob masih minum berlebihan.\nJawaban:
+Premis: Tom pergi ke dokter gigi untuk memperbaiki kariesnya.\nApa akibat yang paling mungkin?\nA. Dokter mengatakan bahwa Tom memiliki tekanan darah tinggi.\nB. Proses pengobatan menghasilkan sampah amalgam.\nJawaban:
+Premis: Pendarahan haid Mary telah berkurang.\nApa penyebab yang paling mungkin?\nA. Mary sudah mengalami menopause.\nB. Mary menyusui anaknya.\nJawaban:

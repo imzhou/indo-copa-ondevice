@@ -1,0 +1,3 @@
+[done] n06ctl_Q4_0 exit=0 wall=6347s rows=400 peak_rss_kb=432936
+FREQ_TRACE samples=3038 with_cpu0=3038
+LETTER_BOARD_DONE 

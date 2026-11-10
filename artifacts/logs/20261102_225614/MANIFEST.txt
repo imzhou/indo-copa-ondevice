@@ -1,0 +1,17 @@
+bench_n06ctl_IQ2_XXS.txt
+bench_n06ctl_IQ3_M.txt
+bench_n06ctl_IQ4_XS.txt
+cpufreq.txt
+gen_n06ctl_IQ2_XXS.txt
+gen_n06ctl_IQ3_M.txt
+gen_n06ctl_IQ4_XS.txt
+letter_20261102_201116/cpufreq.txt
+letter_20261102_201116/letter_n06ctl_Q4_K_M.log
+letter_20261102_201116/letter_n06ctl_Q4_K_M.tsv
+letter_20261102_201116/letter_n06ctl_Q4_K_M.txt
+letter_20261102_201116/letter_qwen3_0.6b_Q4_K_M.log
+letter_20261102_201116/letter_qwen3_0.6b_Q4_K_M.tsv
+letter_20261102_201116/letter_qwen3_0.6b_Q4_K_M.txt
+letter_20261102_201116/progress.txt
+letter_20261102_201116/sysinfo.txt
+sysinfo.txt

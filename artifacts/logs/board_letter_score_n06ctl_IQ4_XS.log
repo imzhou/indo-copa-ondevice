@@ -1,0 +1,11 @@
+== slice ecare_dev n=200 seed=20261102 tok_max=103 n_ctx=128
+[board_iq4xs]
+  board_iq4xs    acc=0.720 auc=0.784 cons=0.755 ci=[0.66, 0.785]
+[host_iq4xs]
+  host_iq4xs     acc=0.705 auc=0.784 cons=0.760 ci=[0.64, 0.77]
+[hf_bf16] (dev_ecare_n06_ctl_step_1884.json)
+  hf_bf16        acc=0.670 auc=nan cons=nan ci=None
+  [pair] board_iq4xs vs host_iq4xs: agree=0.965 pearson=0.9956 mcnemar b=5(only board_iq4xs right) c=2(only host_iq4xs right) p=0.453 self-check b-c=3 vs acc_gap*n=+3
+  [pair] board_iq4xs vs hf_bf16: agree=0.820 pearson=0.8037 mcnemar b=23(only board_iq4xs right) c=13(only hf_bf16 right) p=0.132 self-check b-c=10 vs acc_gap*n=+10
+  [pair] host_iq4xs vs hf_bf16: agree=0.805 pearson=0.8021 mcnemar b=23(only host_iq4xs right) c=16(only hf_bf16 right) p=0.337 self-check b-c=7 vs acc_gap*n=+7
+BOARD_LETTER_DONE

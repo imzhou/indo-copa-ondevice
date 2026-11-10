@@ -1,0 +1,13 @@
+== date
+Mon Nov  2 20:11:16 CST 2026
+== uname
+Linux localhost 4.9.170 #135 SMP PREEMPT Wed Oct 28 19:43:24 CST 2026 armv8l
+== bin
+-rwxr-xr-x 1 root root 4290156 2026-11-02 20:05 /data/local/tmp/copa3/llama/gguf_cand_lp
+== mem
+MemTotal:         992428 kB
+== governor
+schedutil
+== prompt lines
+400
+== threads 4 n_ctx 128
