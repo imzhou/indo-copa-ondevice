@@ -1,5 +1,8 @@
 # indo-copa-ondevice
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24102170.svg)](https://doi.org/10.5281/zenodo.24102170)
+
+
 Code and measurement artifacts for **on-device letter-score evaluation** of quantised Indonesian causal-reasoning language models on an Allwinner A133 tablet (4× Cortex-A53, Android 10, 32-bit userspace, ~992 MB RAM).
 
 Weights are published separately on Hugging Face:
@@ -51,3 +54,22 @@ See `deploy/`. The device is **32-bit** `armeabi-v7a`; do not push arm64 binarie
 
 - Code in this repository: Apache-2.0 (see `LICENSE`)
 - Model weights: Qwen license via base `Qwen/Qwen3-0.6B` (see the HF model card)
+
+
+## Citation
+
+If you use this repository, please cite:
+
+```bibtex
+@software{zhou_indo_copa_ondevice_2026,
+  author       = {Zhou, Jifeng},
+  title        = {{indo-copa-ondevice: on-device letter-score evaluation
+                   for quantised Indonesian causal LMs}},
+  month        = nov,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {0.1.0},
+  doi          = {10.5281/zenodo.24102170},
+  url          = {https://doi.org/10.5281/zenodo.24102170}
+}
+```

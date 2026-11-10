@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: "indo-copa-ondevice: on-device letter-score evaluation for quantised Indonesian causal LMs"
+authors:
+  - family-names: Zhou
+    given-names: Jifeng
+version: 0.1.0
+date-released: "2026-11-10"
+doi: 10.5281/zenodo.24102170
+url: https://doi.org/10.5281/zenodo.24102170
+repository-code: https://github.com/imzhou/indo-copa-ondevice
+license: Apache-2.0
+type: software
